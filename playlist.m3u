@@ -1,3 +1,39 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QvXKMHTH/dumbo.jpg" group-title="Animación", DUMBO 1941
 https://ia601503.us.archive.org/26/items/9c6f1/2bb40ce4.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRCvbtQn/pin.jpg" group-title="Animación", PINOCHO
+https://ia601408.us.archive.org/15/items/123a_20191206/998hb.mp4
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="ES: AXN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN.png" group-title="ES | CINE & SERIES",ES: AXN
+http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5557
+#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="ES: AXN MOVIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="ES | CINE & SERIES",ES: AXN MOVIES
+http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5558
+#EXTINF:-1 tvg-id="Blaze.es" tvg-name="ES: AMC BREAK" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_BREAK.png" group-title="ES | ENTRETENIMIENTO",ES: AMC BREAK
+http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5564#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES: CALLE 13" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Calle_13.png" group-title="ES | CINE & SERIES",ES: CALLE 13
+http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5567
+#EXTINF:-1 tvg-id="0" tvg-name="ES: DISCOVERY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Discovery.png" group-title="ES | CULTURA",ES: DISCOVERY
+http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5594
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="ES: DISNEY CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="ES | NINOS",ES: DISNEY CHANNEL
+http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5596
+#EXTINF:-1 tvg-id="DisneyJunior.es" tvg-name="ES: DISNEY JUNIOR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Junior.png" group-title="ES | NINOS",ES: DISNEY JUNIOR
+http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5597
+#EXTINF:-1 tvg-id="NickJr.es" tvg-name="ES: NICK JR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/NICK_JR.png" group-title="ES | NINOS",ES: NICK JR
+http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5720
+#EXTINF:-1 tvg-id="es.Nickelodeon" tvg-name="ES: NICKELODEON" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="ES | NINOS",ES: NICKELODEON
+http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5721
+#EXTINF:-1 tvg-id="Fox.es" tvg-name="ES: STAR CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/STAR_Channel.png" group-title="ES | ENTRETENIMIENTO",ES: STAR CHANNEL
+http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5613
+#EXTINF:-1 tvg-id="Paramount.es" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png" group-title="ES | CINE & SERIES",ES: PARAMOUNT CHANNEL
+http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5727
+#EXTINF:-1 tvg-id="TNT.sp" tvg-name="ES: WARNER TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Warner_TV.png" group-title="ES | CINE & SERIES",ES: WARNER TV
+http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5739
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="ES: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="ES | CULTURA",ES: NAT GEO WILD
+http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5715
+#EXTINF:-1 tvg-id="Scifi.sp" tvg-name="ES: SYFY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SYFY.png" group-title="ES | ENTRETENIMIENTO",ES: SYFY
+http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5732
+
+
+
+
+
+
+
