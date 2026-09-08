@@ -27,6 +27,8 @@ http://45.181.87.106/CANAL5HD/index.m3u8
 https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
 #EXTINF:-1 tvg-id="Azteca7" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="TV Abierta",Azteca 7 HD
 http://38.49.128.38:8000/play/a0la/index.m3u8
+#EXTINF:-1 tvg-id="A7" tvg-logo="https://i.postimg.cc/fTXhCX0H/images.png" group-title="TV Abierta",A7 HD
+https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
 #EXTINF:-1 tvg-id="Cine Mexicano" tvg-logo="https://i.imgur.com/BhHKphL.png" group-title="TV Abierta",Cine Mexicano HD
 http://177.234.249.178:8888/AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="Cine Estrella" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV Abierta",Cine Estrella HD
