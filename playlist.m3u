@@ -5,10 +5,12 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="Azteca Internacional" tvg-logo="https://i.imgur.com/dMe3re4.png" group-title="TV Abierta",Azteca Internacional HD
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="Azteca Deportes Network" tvg-logo="https://i.postimg.cc/029CX165/images.png" group-title="TV Abierta",Azteca Deportes Network HD
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
 #EXTINF:-1 tvg-id="Azteca Internacional" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2ecbfa8a3f25cc1212dbcd975383b55a.webp" group-title="TV Abierta",Azteca Internacional HD
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="Estrella TV" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV Abierta",Estrella TV HD
-https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Azteca Honduras" tvg-logo="https://i.postimg.cc/pdj8Xs9h/channels4-profile.jpg",Azteca Honduras HD
+https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 #EXTINF:-1 tvg-id="Multimedios Mty" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV Abierta",Multimedios Mty HD
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="Multimedios Mty" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV Abierta",Multimedios Mty HD
@@ -38,24 +40,38 @@ https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playl
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="Telemundo al Dia" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/telemundo_al_dia_1000x1500_2x3_logo_300dpi_vertical_full_color_logo_xumo-3-copy.png" group-title="TV Abierta",Telemundo Al Dia HD
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
-#EXTINF:-1 tvg-id="Teleritmo" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Music",Teleritmo HD
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-id="Visión Television" tvg-logo="https://i.imgur.com/HV5tgcM.png" group-title="Music",Vision Televisión HD
-https://cloudvideo.servers10.com:8081/8016/index.m3u8
-#EXTINF:-1 tvg-id="Classic TV" tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="Music", Classic TV HD
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1 tvg-id="El Chavo del 8" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="TV Premium",El Chavo del 8 HD
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 tvg-id="Cartoon Classics" tvg-logo="https://i.postimg.cc/ht51pCQM/descarga.png" group-title="TV Premium",Cartoon Classics HD
+http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="TV Premium",ES: Disney Channel HD
 http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5596
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Junior.png" group-title="TV Premium",ES: Disney Junior HD
 http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5597
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://docdog.top/logo/countries/spain/movistar/NICK_JR.png" group-title="TV Premium",ES: Nick Jr HD
 http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5720
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://docdog.top/logo/countries/spain/movistar/NICK_JR.png" group-title="TV Premium",ES: Nick Jr HD
+http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="TV Premium",ES: Nickelodeon HD
 http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5721
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo="https://i.postimg.cc/Z5W3kKg2/images.jpg" group-title="TV Premium",CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon Bob Esponja" tvg-logo="https://i.postimg.cc/KYdSSrwj/images.jpg" group-title="TV Premium",ES: Nickelodeon Bob Esponja HD
+https://bob.x1colegal.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="TV Premium",ES: Nickelodeon HD
+https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+#EXTINF:-1 tvg-id="Baby Einstein" tvg-name="Baby Einsteinn" tvg-logo="https://i.postimg.cc/MKjzLNgD/channels4-profile.jpg" group-title="TV Premium",ES: Baby Einstein HD
+https://ds25p79iq4576.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="Baby Shark" tvg-logo="https://i.postimg.cc/GpM2RYKT/channels4-profile.jpg" group-title="TV Premium",Baby Shark HD
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://i.postimg.cc/Z5W3kKg2/images.jpg" group-title="TV Premium",Cartoon Network HD
 http://38.49.128.38:8000/play/a0c0/index.m3u8
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="TV Premium",DISNEY JR HD
+#EXTINF:-1 tvg-id="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="TV Premium",Disney Jr HD
 http://38.49.128.38:8000/play/a0bz/index.m3u8
+#EXTINF:-1 tvg-id="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="TV Premium",Disney Jr HD
+http://177.234.249.178:8888/DISNEY-JR/index.m3u8
+#EXTINF:-1 tvg-id="Disney Channel Latinoamérica" tvg-logo="https://i.postimg.cc/zvQG9RCp/images.jpg" group-title="TV Premium",Disney Channel Latinoamérica HD
+http://181.78.8.199:8000/play/a0dn/index.m3u8
+#EXTINF:-1 tvg-id="Disney Channel Mexico" tvg-logo="https://i.postimg.cc/zvQG9RCp/images.jpg" group-title="TV Premium",Disney Channel Mexico HD
+http://45.166.93.156:9999/play/a0f3/index.m3u8
 #EXTINF:-1 tvg-id="Nicken" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="TV Premium",Nick HD
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 #EXTINF:-1 tvg-id="bitMe" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="TV Premium",bitMe HD
@@ -63,8 +79,54 @@ https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaCartoons.ar@SD" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="TV Premium" http-referrer="https://xtrematv.com/?p=1390",Xtrema Cartoons HD
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-#EXTINF:-1 tvg-id="El Chavo del 8" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="TV Premium",El Chavo del 8 HD
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:-1 tvg-id="Dreamworks Latin" tvg-logo="https://i.postimg.cc/PJst4MKS/images.png" group-title="TV Premium",Dreamworks Latin HD
+http://138.121.15.230:9002/DREAMWORKS/index.m3u8
+#EXTINF:-1 tvg-id="/Las Tortugas Ninja" tvg-logo="https://i.postimg.cc/GhzC8r0k/Las-Tortugas-Ninja-Serie-de-TV-372578913-large.jpg" group-title="TV Premium",Las Tortugas Ninja HD
+https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
+#EXTINF:-1 tvg-id="Mr Bean" tvg-logo="https://i.postimg.cc/T1gsXzmC/images.jpg" group-title="TV Premium",Mr Bean HD
+https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
+#EXTINF:-1 tvg-id="Comedy Central South Park" tvg-logo="https://i.postimg.cc/Y0ZPcph1/images.jpgg" group-title="Comedia ",Comedy Central South Park HD
+https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
+#EXTINF:-1 tvg-id="Comedy Central South Park" tvg-logo="https://i.postimg.cc/Y0ZPcph1/images.jpgg" group-title="Comedia ",Comedy Central South Park HD
+https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
+#EXTINF:-1 tvg-id="Daria" tvg-logo="https://i.postimg.cc/1XqQVNQm/descarga.jpg" group-title="Comedia ",Daria HD
+https://jmp2.uk/plu-6683b680efa2a10008e8a393.m3u8
+#EXTINF:-1 tvg-id="AFV Channel Español" tvg-logo="https://i.postimg.cc/G3XK4h3V/images.jpg" group-title="Comedia ",AFV Channel Español HD
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Naruto TV Serie" tvg-logo="https://i.postimg.cc/2y80gsHm/images.jpg" group-title="Anime",Naruto TV Serie HD
+https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
+#EXTINF:-1 tvg-id="Naruto TV Serie" tvg-logo="https://i.postimg.cc/2y80gsHm/images.jpg" group-title="Anime",Naruto TV Serie HD
+https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
+#EXTINF:-1 tvg-id="Naruto Shippuden TV" tvg-logo="https://i.postimg.cc/44LPmFL8/images.jpg" group-title="Anime",Naruto Shippuden TV HD
+https://jmp2.uk/plu-64c92f965580090008084968.m3u8
+#EXTINF:-1 tvg-id="Boruto TV" tvg-logo="https://i.postimg.cc/0jRShF9f/images.webp" group-title="Anime",Boruto TV HD
+https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
+#EXTINF:-1 tvg-id="ADN TV+" tvg-logo="https://i.postimg.cc/2Sq4bkb6/images.png" group-title="Anime",ADN TV+ HD
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+#EXTINF:-1 tvg-id="Anime x Hidive" tvg-logo="https://i.postimg.cc/d1JkBw1s/descarga.jpg" group-title="Anime",Anime x Hidive HD
+https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
+#EXTINF:-1 tvg-id="Max Anime" tvg-logo="https://i.postimg.cc/PrSgf4ZV/descarga.png" group-title="Anime",Max Anime HD
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Detective Conan" tvg-logo="https://i.postimg.cc/bJjbB4yL/images.jpg" group-title="Anime",Detective Conan HD
+https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
+#EXTINF:-1 tvg-id="One Piece TV Series" tvg-logo="https://i.postimg.cc/CMXDyyrc/images.jpg" group-title="Anime",One Piece TV Series HD
+https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8
+#EXTINF:-1 tvg-id="One Piece TV Series" tvg-logo="https://i.postimg.cc/CMXDyyrc/images.jpg" group-title="Anime",One Piece TV Series HD
+https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
+#EXTINF:-1 tvg-id="One Piece TV Series" tvg-logo="https://i.postimg.cc/CMXDyyrc/images.jpg" group-title="Anime",One Piece TV Series HD
+https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
+#EXTINF:-1 tvg-id="One Piece TV Series" tvg-logo="https://i.postimg.cc/CMXDyyrc/images.jpg" group-title="Anime",One Piece TV Series HD
+https://jmp2.uk/plu-69affcad8940750a23a7231a.m3u8
+#EXTINF:-1 tvg-id="Pluto Anime TV" tvg-logo="https://i.postimg.cc/c1pTNkFM/images.jpg" group-title="Anime",Pluto Anime TV HD
+https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8
+#EXTINF:-1 tvg-id="Pluto Anime TV" tvg-logo="https://i.postimg.cc/c1pTNkFM/images.jpg" group-title="Anime",Pluto Anime TV HD
+https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
+#EXTINF:-1 tvg-id="Pluto Anime TV" tvg-logo="https://i.postimg.cc/c1pTNkFM/images.jpg" group-title="Anime",Pluto Anime TV HD
+https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8
+#EXTINF:-1 tvg-id="Toonami Aftermath" tvg-logo="https://i.postimg.cc/ZqvCZH7x/images.jpg" group-title="Anime",Toonami Aftermath HD
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 tvg-id="Yu Gi Oh TV" tvg-logo="https://i.postimg.cc/Gh3t9dgb/images.jpg" group-title="Anime",Yu Gi Oh TV HD
+https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="Infinita TV Premium" tvg-name="Infinita TV Premium" tvg-logo="https://cdn.m3u.cl/logo/484_Infinita_TV_Premium.png" group-title="TV Premium", Infinita TV Premium HD
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Imagen Universal" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="TV Premium",Imagen Universal HD
@@ -83,6 +145,10 @@ http://38.49.128.38:8000/play/a0ji/index.m3u8
 http://38.49.128.38:8000/play/a0ct/index.m3u8
 #EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://i.postimg.cc/9Q05PsSV/images.png" group-title="TV Premium",HBO XTREME HD
 http://38.49.128.38:8000/play/a096/index.m3u8
+#EXTINF:-1 tvg-id="HBO Hits" tvg-logo="https://i.postimg.cc/X7C0LPPW/images.png" group-title="TV Premium",HBO Hits HD
+https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
+#EXTINF:-1 tvg-id="Hbo Movie" tvg-logo="https://i.postimg.cc/zXZqs5KN/images.jpg" group-title="TV Premium",Hbo Movie HD
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1 tvg-id="MULTI PREMIER" tvg-logo="https://i.postimg.cc/HxB9tvFk/images.png" group-title="TV Premium",MULTI PREMIER HD
 http://38.49.128.38:8000/play/a0cp/index.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL" tvg-logo="https://i.postimg.cc/zDyxj8D9/images.jpg" group-title="TV Premium", UNIVERSAL HD
@@ -92,13 +158,31 @@ http://179.51.136.19:8000/play/a0wx/index.m3u8
 #EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/warner-logo.png" group-title="TV Premium",Warner HD
 http://38.49.128.38:8000/play/a0cf/index.m3u8
 #EXTINF:-1 tvg-id="Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="TV Premium",Cine Sony HD
+http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="TV Premium",Cine Sony HD
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="TV Premium",Cine Sony HD
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="TV Premium",Cine Sony HD
+http://45.162.64.114/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="TV Premium",Cine Sony HD
+https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="TV Premium",Cine Sony HD
+https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="Cine Premiere" tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="TV Premium",Cine Premiere HD
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
+#EXTINF:-1 tvg-id="AXN Latinoamerica" tvg-logo="https://i.postimg.cc/YScKTzJR/images.png" group-title="TV Premium",AXN Latinoamerica HD
+http://177.234.249.178:8888/AXN/index.m3u8
+#EXTINF:-1 tvg-id="My Time Movie" tvg-logo="https://i.postimg.cc/d3Z9MGM0/images.jpg" group-title="TV Premium",My Time Movie HD
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Rakuten Drama" tvg-logo="https://i.postimg.cc/fyQvNJM8/400caa96-4298-41ae-92a4-8a2406fc81c8.jpg" group-title="TV Premium",Rakuten Drama HD
+https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
+#EXTINF:-1 tvg-id="Rakuten Top" tvg-logo="https://i.postimg.cc/T31gBrr3/images.jpg" group-title="TV Premium",Rakuten Top HD
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
 #EXTINF:-1 tvg-id="Historia " tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="TV Premium",Historia HD
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+#EXTINF:-1 tvg-id="Cine Terror" tvg-logo="https://i.postimg.cc/MTWyPyTB/images.png" group-title="TV Premium",Cine Terror HD
+https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
 #EXTINF:-1 tvg-id="Rakuten TV Sci-Fi" tvg-logo="https://i.postimg.cc/FF7BB9Rj/images.jpg" group-title="TV Premium",Rakuten TV Sci-Fi HD
 https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
 #EXTINF:-1 tvg-id="Rakuten TV Drama" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="TV Premium",Rakuten TV Drama HD
@@ -115,42 +199,103 @@ https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Cine Western" tvg-logo="https://i.imgur.com/2UROzSc.png" group-title="TV Premium",Cine Western HD
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
-#EXTINF:-1 tvg-id="CSI Espanol" tvg-logo="https://i.imgur.com/ifarQil.png" group-title="TV Premium",CSI Español HD
-https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
-#EXTINF:-1 tvg-id="Archivos Forenses" tvg-logo="https://i.postimg.cc/7Z9LQ1sV/images.jpg" group-title="TV Premium",Archivos Forenses HD
-https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8
-#EXTINF:-1 tvg-id="Archivos Extraterrestres" tvg-logo="https://i.postimg.cc/ryG2JVY4/images.jpg" group-title="TV Premium",Archivos Extraterrestres HD
-https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8
-#EXTINF:-1 tvg-id="Cops Español" tvg-logo="https://i.postimg.cc/T20H1p4H/images.jpg" group-title="TV Premium",Cops Español HD
-https://rightsboosterltd-cops-1-es.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Distrito TV" tvg-logo="https://i.imgur.com/AqGIoIt.png" group-title="TV Premium",Distrito TV HD
-https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
-#EXTINF:-1 tvg-id="Cosmos TV" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="TV Premium",Cosmos TV HD
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 tvg-id="Cine Terror" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="TV Premium",Cine Terror HD
-https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
+#EXTINF:-1 tvg-id="CRTV Chile" tvg-logo="https://i.postimg.cc/85fmrLyz/images.jpg" group-title="TV Premium",CRTV Chile HD
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
+#EXTINF:-1 tvg-id="A Sport" tvg-logo="https://i.postimg.cc/fTJYrc7V/images.jpg" group-title="Sports",A Sport HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:-1 tvg-id="Accion" tvg-logo="https://i.postimg.cc/mDPF5RMV/images.jpg" group-title="Sports",Accion HD
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ACI Sport" tvg-logo="https://i.postimg.cc/xjy0VhRm/images.png" group-title="Sports",AACI Sport HD
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-id="beINSPORTS XTRAen" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",beIN Sports XTRA HD
-https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSPORTS XTRAen" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",beIN Sports XTRA HD
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.postimg.cc/dtc62fWg/images.png" group-title="Sports",ESPN HD
+http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.postimg.cc/dtc62fWg/images.png" group-title="Sports",ESPN HD
 http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.postimg.cc/HnvpgMPk/mx-deportivo-espn-3-p-m.jpg" group-title="Sports",ESPN 3 HD
 http://190.83.2.182:8090/ESPN3/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.postimg.cc/dtc62fWg/images.png" group-title="Sports",ESPN 4 HD
+http://181.78.197.59:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 8" tvg-logo="https://i.postimg.cc/KcCGJPLs/images.jpg" group-title="Sports",ESPN 8 HD
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 tvg-id="ESPN 8" tvg-logo="https://i.postimg.cc/KcCGJPLs/images.jpg" group-title="Sports",ESPN 8 HD
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 tvg-id="ESPN U" tvg-logo="https://i.postimg.cc/vZzspVtZ/images.png" group-title="Sports",ESPN U HD
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 tvg-id="ESPN U" tvg-logo="https://i.postimg.cc/vZzspVtZ/images.png" group-title="Sports",ESPN U HD
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPN U" tvg-logo="https://i.postimg.cc/fRHPcjvm/images.png" group-title="Sports",ESPN U HD
+http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="FOX Deportes" tvg-logo="https://i.postimg.cc/SsW-r37jk/images.png" group-title="Sports",FOX Deportes HD
+https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8
+#EXTINF:-1 tvg-id="FIFA+ Español" tvg-logo="https://i.postimg.cc/P5BWnCX6/images.jpg" group-title="Sports",FIFA+ Español HD
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFA+ EEUU" tvg-logo="https://i.postimg.cc/P5BWnCX6/images.jpg" group-title="Sports",FIFA+ EEUU HD
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id=""FIFA+ Women tvg-logo="https://i.postimg.cc/HkCWGHGb/images.jpg" group-title="Sports",FIFA+ Women HD
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="FloHockey" tvg-logo="https://i.postimg.cc/XvP7z5nN/images.jpg" group-title="Sports",FloHockey HD
+https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX Deportes" tvg-logo="https://i.postimg.cc/SsW-r37jk/images.png" group-title="Sports",FOX Deportes HD
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="FOX Sport 1" tvg-logo="https://i.postimg.cc/SsW-r37jk/images.png" group-title="Sports",FOX Sport 1 HD
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="FOX Sport 2" tvg-logo="https://i.postimg.cc/SsW-r37jk/images.png" group-title="Sports",FOX Sport 2 HD
 https://tvsen7.aynascope.net/foxsports2/index.m3u8
-#EXTINF:-1 tvg-id="FOX Sport 2" tvg-logo="https://i.postimg.cc/SsW-r37jk/images.png" group-title="Sports",FOX Sport 2 HD
-https://tvsen7.aynascope.net/foxsports2/index.m3u8
+#EXTINF:-1 tvg-id="Fuel Tv" tvg-logo="https://i.postimg.cc/26NgyjwH/images.png" group-title="Sports",Fuel Tv HD
+https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="Ge Fast Tv" tvg-logo="https://i.postimg.cc/QxPsQTJZ/images.jpg" group-title="Sports",Ge Fast Tv HD
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NBA Tv" tvg-logo="https://i.postimg.cc/y8yHwbzj/descarga.png" group-title="Sports",NBA Tv HD
+https://cdn1.ayitistream.com/NBATV/index.m3u8
+#EXTINF:-1 tvg-id="NBC Sport Now" tvg-logo="https://i.postimg.cc/K8wPhJrc/44.png" group-title="Sports",NBC Sport Now HD
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+#EXTINF:-1 tvg-id="NFL Channel" tvg-logo="https://i.postimg.cc/nrXVxY1b/ere.jpg" group-title="Sports",NFL Channel HD
+https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
+#EXTINF:-1 tvg-id="Real Madrid Tv" tvg-logo="https://i.postimg.cc/CLFTb48M/ere.jpg" group-title="Sports",Real Madrid Tv HD
+http://88.212.15.19/live/real_madrid_tv/index.m3u8
+#EXTINF:-1 tvg-id="SKY Racing" tvg-logo="https://i.postimg.cc/gjm5qYnS/ere.jpg" group-title="Sports",SKY Racing HD
+https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
+#EXTINF:-1 tvg-id="SKY Racing" tvg-logo="https://i.postimg.cc/gjm5qYnS/ere.jpg" group-title="Sports",SKY Racing HD
+https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
+#EXTINF:-1 tvg-id="Star Sport 2" tvg-logo="https://i.postimg.cc/qRkX1gxN/ere.jpg" group-title="Sports",Star Sport 2 HD
+http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
+#EXTINF:-1 tvg-id="Star Sport 2" tvg-logo="https://i.postimg.cc/qRkX1gxN/ere.jpg" group-title="Sports",Star Sport 2 HD
+https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
+#EXTINF:-1 tvg-id="Star Sport 2" tvg-logo="https://i.postimg.cc/qRkX1gxN/ere.jpg" group-title="Sports",Star Sport 2 HD
+http://tvsen7.aynascope.net/ssport2hd/index.m3u8
+#EXTINF:-1 tvg-id="Teleritmo" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Music",Teleritmo HD
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-id="Visión Television" tvg-logo="https://i.imgur.com/HV5tgcM.png" group-title="Music",Vision Televisión HD
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
+#EXTINF:-1 tvg-id="Blues TV" tvg-logo="https://i.postimg.cc/qvM1mhmF/descarga.png" group-title="Music",Blues TV HD
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Classic TV" tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="Music", Classic TV HD
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1 tvg-id="Metallica Master Of Puppets" tvg-logo="https://i.postimg.cc/xdVWTynF/ere.jpg" group-title="Music",Metallica Master Of Puppets HD
+https://ia903101.us.archive.org/17/items/metallica-master-of-puppets-manchester-england-june-18-2019-1080-p-hd/Metallica_%20Master%20of%20Puppets%20%28Manchester_%20England%20-%20June%2018_%202019%29%281080P_HD%29.mp4
+#EXTINF:-1 tvg-id="Nirvana Come As You Are" tvg-logo="https://i.postimg.cc/KzqqLnh4/ere.jpg" group-title="Music",Nirvana Come As You Are HD
+https://ia801803.us.archive.org/16/items/nirvana-come-as-you-are-official-music-video-1080-p-hd_202609/Nirvana%20-%20Come%20As%20You%20Are%20%28Official%20Music%20Video%29%281080P_HD%29.ia.mp4
+#EXTINF:-1 tvg-id="Guns N Roses Welcome To The Jungle" tvg-logo="https://i.postimg.cc/nV68PtN8/ere.jpg" group-title="Music",Guns N Roses Welcome To The Jungle HD
+https://ia800906.us.archive.org/13/items/guns-n-roses-welcome-to-the-jungle-1080-p-hd_202609/Guns%20N_%20Roses%20-%20Welcome%20To%20The%20Jungle%281080P_HD%29.ia.mp4
+#EXTINF:-1 tvg-id="Aerosmith I Don T Want To Miss A Thing" tvg-logo="https://i.postimg.cc/tChcvn30/ere.jpg" group-title="Music",Aerosmith I Don T Want To Miss A Thing HD
+https://ia903104.us.archive.org/1/items/aerosmith-i-don-t-want-to-miss-a-thing-official-hd-video-1080-p-hd/Aerosmith%20-%20I%20Don_t%20Want%20to%20Miss%20a%20Thing%20%28Official%20HD%20Video%29%281080P_HD%29.ia.mp4
+#EXTINF:-1 tvg-id="Smash Mouth All Star" tvg-logo="https://i.postimg.cc/RZgX27q2/ere.jpg" group-title="Music",Smash Mouth All Star HD
+https://ia803101.us.archive.org/25/items/smash-mouth-all-star-1080-p-hd/Smash%20Mouth%20-%20All%20Star%281080P_HD%29.mp4
+#EXTINF:-1 tvg-id="RUN DMC Walk This Way" tvg-logo="https://i.postimg.cc/t44zdsDY/ere.jpg" group-title="Music",RUN DMC Walk This Way HD
+https://ia600106.us.archive.org/18/items/run-dmc-walk-this-way-official-hd-video-ft.-aerosmith-1080-p-hd/RUN%20DMC%20-%20Walk%20This%20Way%20%28Official%20HD%20Video%29%20ft.%20Aerosmith%281080P_HD%29.mp4
+#EXTINF:-1 tvg-id="Aerosmith Dream On " tvg-logo="https://i.postimg.cc/Gtzy9jWS/ere.jpg" group-title="Music",Aerosmith Dream On HD
+https://ia800604.us.archive.org/1/items/aerosmith-dream-on-live-from-mexico-city-2016-1080-p-hd/Aerosmith%20-%20Dream%20On%20%28Live%20From%20Mexico%20City_%202016%29%281080P_HD%29.mp4
 #EXTINF:-1 tvg-id="Coyote vs Acme" tvg-logo="https://i.postimg.cc/7YssMhSx/images.jpg" group-title="PELICULAS HD",Coyote vs Acme HD
 https://ia601004.us.archive.org/28/items/coyote_202609/coyote.mp4
+#EXTINF:-1 tvg-id="Moana Live Action" tvg-logo="https://i.postimg.cc/NFQs9vYL/ere.jpg" group-title="PELICULAS HD",Moana Live Action HD
+https://ia801500.us.archive.org/18/items/moana-2026_202609/Moana%202026.mp4
 #EXTINF:-1 tvg-id="Volver al Futuro" tvg-logo="https://i.postimg.cc/ZRfHFYMc/images.jpg" group-title="PELICULAS HD",Volver al Futuro HD
 https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
-#EXTINF:-1 tvg-id="Volver al Futuro" tvg-logo="https://i.postimg.cc/ZRfHFYMc/images.jpg" group-title="PELICULAS HD",Volver al Futuro HD
-https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
+
 
 
 
