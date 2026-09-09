@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Vix Jajaja" tvg-logo="https://i.postimg.cc/1RbNvJPt/ere.jpg" group-title="TV Abierta",Vix Jajaja HD
-https://osm-use1.sr.roku.com/osm/v1/hls/use1/variant/142fbe3928534a009107ba9441ecb838/live_720.m3u8
 #EXTINF:-1 tvg-id="Telediario Mty" tvg-logo="https://i.postimg.cc/1RbNvJPt/ere.jpg" group-title="TV Abierta",Telediario Mty HD
 https://osm-use2.sr.roku.com/osm/v1/hls/use2/variant/07c46787c7b64ee6b59a18e7263e4e17/live_720.m3u8
 #EXTINF:-1 tvg-id="Canal 6 Mx" tvg-logo="https://i.postimg.cc/1RbNvJPt/ere.jpg" group-title="TV Abierta",Canal 6 Mx HD
@@ -27,6 +25,8 @@ https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playl
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="Telemundo al Dia" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/telemundo_al_dia_1000x1500_2x3_logo_300dpi_vertical_full_color_logo_xumo-3-copy.png" group-title="TV Abierta",Telemundo Al Dia HD
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
+#EXTINF:-1 tvg-id="Vix Jajaja" tvg-logo="https://i.postimg.cc/1RbNvJPt/ere.jpg" group-title="TV Abierta",Vix Jajaja HD
+https://osm-use1.sr.roku.com/osm/v1/hls/use1/variant/142fbe3928534a009107ba9441ecb838/live_720.m3u8
 #EXTINF:-1 tvg-id="El Chavo del 8" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="TV Premium",El Chavo del 8 HD
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoon Classics" tvg-logo="https://i.postimg.cc/ht51pCQM/descarga.png" group-title="TV Premium",Cartoon Classics HD
@@ -178,6 +178,8 @@ https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
 http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
 #EXTINF:-1 tvg-id="Star Sport 2" tvg-logo="https://i.postimg.cc/qRkX1gxN/ere.jpg" group-title="Sports",Star Sport 2 HD
 http://tvsen7.aynascope.net/ssport2hd/index.m3u8
+#EXTINF:-1 tvg-id="FOX Tubi" tvg-logo="https://i.postimg.cc/w1T5jT2F/UL1Jt-Yb.png" group-title="Sports",FOX Tubi HD
+https://a.tubi1.apollo.adrise.io/live/fox-en-tubi-pltefr/1280x720.m3u8?vpaid_enabled=false&tb.sid=9a539f74-386b-4ace-8aa8-e413ca822ebf&content_type=mp4&device_id=40c84c48-ba72-424e-8d34-2e20e689355e&language=es&app_id=tubitv&content_id=400000122&ap.ss=67e4733bc365f486dd798e2d63375b97&ap.pt=2&app_mode=DEFAULT_MODE&playback_start_ts=1788937007&ap.sid=74adf383-ba72-49e7-983f-4ac374010982&gdpr=0&platform=WEB&pub_id=21f12146acbab325bb229e55010b88c3&ap.playback_start_ts=1788937007&ap.route=-9xRhGYWETE48I6ILZL-rc5IzW4&now_pos=0
 #EXTINF:-1 tvg-id="Teleritmo" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Music",Teleritmo HD
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="Visión Television" tvg-logo="https://i.imgur.com/HV5tgcM.png" group-title="Music",Vision Televisión HD
@@ -207,76 +209,6 @@ https://ia801500.us.archive.org/18/items/moana-2026_202609/Moana%202026.mp4
 #EXTINF:-1 tvg-id="Volver al Futuro" tvg-logo="https://i.postimg.cc/ZRfHFYMc/images.jpg" group-title="PELICULAS HD",Volver al Futuro HD
 https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
 
-
-
-
-
-
-#EXTM3U
-#EXT-X-VERSION:6
-#EXT-X-TARGETDURATION:4
-#EXT-X-MEDIA-SEQUENCE:716972
-#EXT-X-DISCONTINUITY-SEQUENCE:1
-#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:40:21.752Z
-#EXTINF:4.0,
-#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0AC
-https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06972.ts
-#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:40:25.752Z
-#EXTINF:4.0,
-#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0AD
-https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06973.ts
-#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:40:29.752Z
-#EXTINF:4.0,
-#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0AE
-https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06974.ts
-#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:40:33.752Z
-#EXTINF:4.0,
-#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0AF
-https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06975.ts
-#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:40:37.752Z
-#EXTINF:4.0,
-#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0B0
-https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06976.ts
-#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:40:41.752Z
-#EXTINF:4.0,
-#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0B1
-https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06977.ts
-#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:40:45.752Z
-#EXTINF:4.0,
-#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0B2
-https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06978.ts
-#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:40:49.752Z
-#EXTINF:4.0,
-#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0B3
-https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06979.ts
-#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:40:53.752Z
-#EXTINF:4.0,
-#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0B4
-https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06980.ts
-#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:40:57.752Z
-#EXTINF:4.0,
-#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0B5
-https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06981.ts
-#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:41:01.752Z
-#EXTINF:4.0,
-#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0B6
-https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06982.ts
-#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:41:05.752Z
-#EXTINF:4.0,
-#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0B7
-https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06983.ts
-#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:41:09.752Z
-#EXTINF:4.0,
-#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0B8
-https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06984.ts
-#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:41:13.752Z
-#EXTINF:4.0,
-#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0B9
-https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06985.ts
-#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:41:17.752Z
-#EXTINF:4.0,
-#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0BA
-https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06986.ts
 
 
 
@@ -426,6 +358,73 @@ https://live557.delivery.roku.com/357aed8f-98c4-4a18-b057-aa71c13c7e32/t2-origin
 #EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/357aed8f-98c4-4a18-b057-aa71c13c7e32/key/keyaes.key",IV=0x0000000000000000000000000008881F
 https://live557.delivery.roku.com/357aed8f-98c4-4a18-b057-aa71c13c7e32/t2-origin/out/v1/live_404/00055/live_404_09135.ts
 
+
+
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:716972
+#EXT-X-DISCONTINUITY-SEQUENCE:1
+#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:40:21.752Z
+#EXTINF:4.0,
+#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0AC
+https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06972.ts
+#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:40:25.752Z
+#EXTINF:4.0,
+#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0AD
+https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06973.ts
+#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:40:29.752Z
+#EXTINF:4.0,
+#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0AE
+https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06974.ts
+#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:40:33.752Z
+#EXTINF:4.0,
+#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0AF
+https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06975.ts
+#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:40:37.752Z
+#EXTINF:4.0,
+#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0B0
+https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06976.ts
+#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:40:41.752Z
+#EXTINF:4.0,
+#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0B1
+https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06977.ts
+#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:40:45.752Z
+#EXTINF:4.0,
+#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0B2
+https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06978.ts
+#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:40:49.752Z
+#EXTINF:4.0,
+#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0B3
+https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06979.ts
+#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:40:53.752Z
+#EXTINF:4.0,
+#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0B4
+https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06980.ts
+#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:40:57.752Z
+#EXTINF:4.0,
+#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0B5
+https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06981.ts
+#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:41:01.752Z
+#EXTINF:4.0,
+#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0B6
+https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06982.ts
+#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:41:05.752Z
+#EXTINF:4.0,
+#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0B7
+https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06983.ts
+#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:41:09.752Z
+#EXTINF:4.0,
+#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0B8
+https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06984.ts
+#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:41:13.752Z
+#EXTINF:4.0,
+#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0B9
+https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06985.ts
+#EXT-X-PROGRAM-DATE-TIME:2026-09-09T06:41:17.752Z
+#EXTINF:4.0,
+#EXT-X-KEY:METHOD=AES-128,URI="https://sk.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/key/keyaes.key",IV=0x000000000000000000000000000AF0BA
+https://gcp-live-5004-006.delivery.roku.com/e9b4484d-1030-4cf7-9a19-6de8b2a5e096/t2-origin/out/v1/live_720/00071/live_720_06986.ts
 
 
 
