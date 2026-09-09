@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Telediario Mty" tvg-logo="https://i.postimg.cc/1RbNvJPt/ere.jpg" group-title="TV Abierta",Telediario Mty HD
-https://osm-use2.sr.roku.com/osm/v1/hls/use2/variant/07c46787c7b64ee6b59a18e7263e4e17/live_720.m3u8
-#EXTINF:-1 tvg-id="Canal 6 Mx" tvg-logo="https://i.postimg.cc/1RbNvJPt/ere.jpg" group-title="TV Abierta",Canal 6 Mx HD
-https://osm-use1.sr.roku.com/osm/v1/hls/use1/variant/2430e449749a40538ee116c595e3195f/live_720.m3u8
 #EXTINF:-1 tvg-id="Milenio Television" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="TV Abierta",Milenio Televisión HD
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="Azteca Internacional" tvg-logo="https://i.imgur.com/dMe3re4.png" group-title="TV Abierta",Azteca Internacional HD
