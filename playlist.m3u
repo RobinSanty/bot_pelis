@@ -78,6 +78,8 @@ https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Imagen Universal" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="TV Premium",Imagen Universal HD
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1 tvg-name="Aguacate TV" tvg-logo="https://intervenhosting.net/imagenes/aguacatetv.jpg" tvg-id="AguacateTV.ve" tvg-chno="12" tvg-country="VE" group-title="TV Premium",Aguacate TV
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="HBO " tvg-logo="https://i.postimg.cc/PJyz23cx/images.png" group-title="TV Premium",HBO HD
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 tvg-id="HBO Hits" tvg-logo="https://i.postimg.cc/X7C0LPPW/images.png" group-title="TV Premium",HBO Hits HD
