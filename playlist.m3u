@@ -204,9 +204,30 @@ https://ia800604.us.archive.org/1/items/aerosmith-dream-on-live-from-mexico-city
 https://ia801500.us.archive.org/18/items/moana-2026_202609/Moana%202026.mp4
 #EXTINF:-1 tvg-id="Esta entre nosotros" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY4YjM1OGItMDlmMi00OTU1LWEzM2MtZGMyZTQ1NzhiM2VhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS HD",Estan entre Nosotros HD
 https://ia600605.us.archive.org/19/items/nd-entre-nosotros/ND%20entre%20nosotros.mp4
-#EXTM3U
-#EXTINF:-1 group-title="Sere",Stream 1
-http://181.176.155.7:8090/playlist.m3u8?fbclid=IwdGRjcAUT5b5jbGNrBRPltnBkb2YFZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEePzQS9EgaI6mRfwYG9dN9pRE3Y0MBfloz6_GLWOeTwoL_yyrBVmmWxedeZPk_aem_-jgQwq-LCioIDzSTKojRzA
+#EXTINF:-1 tvg-id="A&E " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",A&E HD
+http://181.176.155.7:8090/play/a1vh/index.m3u8
+#EXTINF:-1 tvg-id="A&E " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",A&E HD
+http://181.176.155.7:8090/play/a1vh/index.m3u8
+#EXTINF:-1 tvg-id="AMC " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",AMC HD
+http://181.176.155.7:8090/play/a1vw/index.m3u8
+#EXTINF:-1 tvg-id="FOX HD " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",FOX HD HD
+http://181.176.155.7:8090/play/a1k9/index.m3u8
+#EXTINF:-1 tvg-id="WARNER " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",WARNER HD
+http://181.176.155.7:8090/play/a1k5/index.m3u8
+#EXTINF:-1 tvg-id="HBO FAMILY " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",HBO FAMILY HD
+http://181.176.155.7:8090/play/a1ff/index.m3u8
+#EXTINF:-1 tvg-id="HBO EXTREM " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",HBO XTREM HD
+http://181.176.155.7:8090/play/a1fg/index.m3u8
+#EXTINF:-1 tvg-id="STAR CHANNEL " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",STAR CHANNEL HD
+http://181.176.155.7:8090/play/a1ka/index.m3u8
+
+
+
+
+
+
+
+
 
 
 
