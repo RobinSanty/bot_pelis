@@ -1,191 +1,751 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="MX | FORO TV OP1" tvg-logo="http://redworld.pro:8880/images/d2873c21020a5f7e72e448bd7e65c205.png" group-title="⭐️ México",MX | FORO TV OP1
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534775
+#EXTINF:-1 tvg-id="" tvg-name="TELEVISA MONTERREY" tvg-logo="http://127.0.0.1/" group-title="⭐️ México",TELEVISA MONTERREY
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534834
+#EXTINF:-1 tvg-id="" tvg-name="MX | ADN 40 OP1" tvg-logo="http://redworld.pro:8880/images/6b6a99ae85088bf784c9900899d8fcf9.png" group-title="⭐️ México",MX | ADN 40 OP1
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534776
+#EXTINF:-1 tvg-id="" tvg-name="MX | ADN 40 OP2" tvg-logo="http://redworld.pro:8880/images/6b6a99ae85088bf784c9900899d8fcf9.png" group-title="⭐️ México",MX | ADN 40 OP2
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534777
+#EXTINF:-1 tvg-name="ADN 40" group-title="FENECTV" tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png",ADN 40
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | 01 • AZTECA UNO" tvg-logo="http://redworld.pro:8880/images/2487746efe0de2d02265bb9f5262e078.png" group-title="⭐️ México",MX | 01 • AZTECA UNO
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534768
+#EXTINF:-1 tvg-id="" tvg-name="MX | NU9VE OP1" tvg-logo="http://redworld.pro:8880/images/f9beba5fea8179aef7979f7bce7557bd.png" group-title="⭐️ México",MX | NU9VE OP1
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534778
+#EXTINF:-1 tvg-id="" tvg-name="MX | CANAL 6 MULTIMEDIOS" tvg-logo="http://redworld.pro:8880/images/d6f92508cfc42fd3861eabc720d3fe96.png" group-title="⭐️ México",MX | CANAL 6 MULTIMEDIOS
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534788
+#EXTINF:-1 tvg-id="" tvg-name="MX | MILENIO HD" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ México",MX | MILENIO HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534796
 #EXTINF:-1 tvg-id="Milenio Television" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="TV Abierta",Milenio Televisión HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 tvg-id="Azteca Internacional" tvg-logo="https://i.imgur.com/dMe3re4.png" group-title="TV Abierta",Azteca Internacional HD
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="Azteca Deportes Network" tvg-logo="https://i.postimg.cc/029CX165/images.png" group-title="TV Abierta",Azteca Deportes Network HD
-http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
-#EXTINF:-1 tvg-id="Azteca Internacional" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2ecbfa8a3f25cc1212dbcd975383b55a.webp" group-title="TV Abierta",Azteca Internacional HD
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-name="Multimedios Monterrey" group-title="FENECTV" tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png",Multimedios Monterrey
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="(OFFLINE) TELEMUNDO MEXICO" tvg-logo="http://redworld.pro:8880/images/8d8ae6d0f2024418734c1561fa469870.jpg" group-title="⭐️ Telemundo - Univision - Galavision - Unimas y más ",TELEMUNDO MEXICO
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/490417
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Glitz" tvg-logo="http://redworld.pro:8880/images/3cc08b1c9d27766ef4324e457791f37b.png" group-title="⭐️ Telenovelas",Latino | Glitz
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/135432
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Pasiones" tvg-logo="http://redworld.pro:8880/images/e470b16ca9c0f5a4deb717bdd7866f7f.png" group-title="⭐️ Telenovelas",Latino | Pasiones
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/135435
+#EXTINF:-1 tvg-id="" tvg-name="Latino | AZ CORAZON" tvg-logo="http://redworld.pro:8880/images/c749fdf8a9943d4e485533e16bed3357.png" group-title="⭐️ Telenovelas",Latino | AZ CORAZON
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/135429
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - La Rosa De Guadalupe" tvg-logo="http://redworld.pro:8880/images/087f3f0ec21ae979bf3b290d0022d0a4.jpg" group-title="✅ 24/7 VIP",24/7 - La Rosa De Guadalupe
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526416
 #EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="TV Abierta",Las Estrellas HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="Estrella TV" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV Abierta",Estrella TV HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="A7" tvg-logo="https://i.postimg.cc/fTXhCX0H/images.png" group-title="TV Abierta",A7 HD
-https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
-#EXTINF:-1 tvg-id="Cine Mexicano" tvg-logo="https://i.imgur.com/BhHKphL.png" group-title="TV Abierta",Cine Mexicano HD
-http://177.234.249.178:8888/AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Canal De Las Estrellas" tvg-logo="http://redworld.pro:8880/images/08a8ff2273ed6b7a6fa12dacc5b20a6d.png" group-title="⭐️ Telenovelas",Latino | Canal De Las Estrellas
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/135431
+#EXTINF:-1 tvg-id="" tvg-name="MX | CANAL DE LAS ESTRELLAS OP2" tvg-logo="http://redworld.pro:8880/images/894a70f37f59ac14d4042b1dba66ea00.png" group-title="⭐️ México",MX | CANAL DE LAS ESTRELLAS OP2
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534766
+#EXTINF:-1 tvg-name="Las Estrellas" group-title="FENECTV" tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png",Las Estrellas
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="Cine Estrella" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV Abierta",Cine Estrella HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
 https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
+#EXTINF:-1 tvg-name="Las Estrellas TV" group-title="FENECTV" tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png",Las Estrellas TV
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo Accion" tvg-logo="https://i.postimg.cc/QMRVp8Yn/images.jpg" group-title="TV Abierta",Telemundo Accion HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="Telemundo al Dia" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/telemundo_al_dia_1000x1500_2x3_logo_300dpi_vertical_full_color_logo_xumo-3-copy.png" group-title="TV Abierta",Telemundo Al Dia HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
-#EXTINF:-1 tvg-id="Vix Jajaja" tvg-logo="https://i.postimg.cc/1RbNvJPt/ere.jpg" group-title="TV Abierta",Vix Jajaja HD
-https://osm-use1.sr.roku.com/osm/v1/hls/use1/variant/142fbe3928534a009107ba9441ecb838/live_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latino | TLNovelas" tvg-logo="http://redworld.pro:8880/images/efd44a468c4d56cd88590b069b3fd14a.png" group-title="⭐️ Telenovelas",Latino | TLNovelas
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/135436
+#EXTINF:-1 tvg-id="" tvg-name="TL Novelas Univision" tvg-logo="http://redworld.pro:8880/images/86a28a66b5085df833f6b06f70e2dc55.png" group-title="⭐️ Telenovelas",TL Novelas Univision
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/135439
+#EXTINF:-1 tvg-id="" tvg-name="TBS | TNT NOVELAS HD" tvg-logo="" group-title="⭐️ Telenovelas",TBS | TNT NOVELAS HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/422647
+#EXTINF:-1 tvg-name="Canal 5" group-title="FENECTV" tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png",Canal 5
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://45.5.118.152:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | CANAL 5 HD" tvg-logo="http://redworld.pro:8880/images/7c5f138da031d6efef359be7ce395d48.png" group-title="⭐️ México",MX | CANAL 5 HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534770
+#EXTINF:-1 tvg-name="Azteca 7" group-title="FENECTV" tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png",Azteca 7
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://187.245.231.226:8000/play/a0uz/index.m3u8
+#EXTINF:-1 tvg-id="A7" tvg-logo="https://i.postimg.cc/fTXhCX0H/images.png" group-title="TV Abierta",A7 HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZTECA 7 HD" tvg-logo="http://redworld.pro:8880/images/3a1aedf21b4c1c6d640c5a73f62d0e86.png" group-title="⭐️ México",MX | AZTECA 7 HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534771
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZTECA 7 FHD" tvg-logo="http://redworld.pro:8880/images/3a1aedf21b4c1c6d640c5a73f62d0e86.png" group-title="⭐️ México",MX | AZTECA 7 FHD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534772
+#EXTINF:-1 tvg-name="El Chavo TV" group-title="FENECTV" tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png",El Chavo TV
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-id="El Chavo del 8" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="TV Premium",El Chavo del 8 HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoon Classics" tvg-logo="https://i.postimg.cc/ht51pCQM/descarga.png" group-title="TV Premium",Cartoon Classics HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="TV Premium",ES: Disney Channel HD
-http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5596
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Junior.png" group-title="TV Premium",ES: Disney Junior HD
-http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5597
-#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://docdog.top/logo/countries/spain/movistar/NICK_JR.png" group-title="TV Premium",ES: Nick Jr HD
-http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5720
-#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://docdog.top/logo/countries/spain/movistar/NICK_JR.png" group-title="TV Premium",ES: Nick Jr HD
-http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="TV Premium",ES: Nickelodeon HD
-http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5721
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="TV Premium",ES: Nickelodeon HD
-https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
-#EXTINF:-1 tvg-id="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="TV Premium",Disney Jr HD
-http://177.234.249.178:8888/DISNEY-JR/index.m3u8
-#EXTINF:-1 tvg-id="Disney Channel Latinoamérica" tvg-logo="https://i.postimg.cc/zvQG9RCp/images.jpg" group-title="TV Premium",Disney Channel Latinoamérica HD
-http://181.78.8.199:8000/play/a0dn/index.m3u8
-#EXTINF:-1 tvg-id="Disney Channel Mexico" tvg-logo="https://i.postimg.cc/zvQG9RCp/images.jpg" group-title="TV Premium",Disney Channel Mexico HD
-http://45.166.93.156:9999/play/a0f3/index.m3u8
-#EXTINF:-1 tvg-id="Nicken" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="TV Premium",Nick HD
-https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
-#EXTINF:-1 tvg-id="bitMe" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="TV Premium",bitMe HD
-https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaCartoons.ar@SD" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="TV Premium" http-referrer="https://xtrematv.com/?p=1390",Xtrema Cartoons HD
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="TV Premium",ES: Disney Channel HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5596
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Junior.png" group-title="TV Premium",ES: Disney Junior HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5597
+#EXTINF:-1 tvg-name="Disney Channel MX" group-title="FENECTV" tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png",Disney Channel MX
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://45.166.93.156:9999/play/a0f3/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel North" group-title="FENECTV" tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png",Disney Channel North
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-name="Disney Jr. Latino" group-title="FENECTV" tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png",Disney Jr. Latino
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://190.14.10.19:16000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDS | CARTOON NETWORK | OPC2" tvg-logo="http://redworld.pro:8880/images/c67ab172eb643fea7070b0a3514f4459.png" group-title="⭐️ Infantiles",KIDS | CARTOON NETWORK | OPC2
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/321973
+#EXTINF:-1 tvg-id="" tvg-name="KIDS | CARTOON NETWORK" tvg-logo="http://redworld.pro:8880/images/c67ab172eb643fea7070b0a3514f4459.png" group-title="⭐️ Infantiles",KIDS | CARTOON NETWORK CINEMAX
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/321974
+#EXTINF:-1 tvg-id="" tvg-name="KIDS | CARTOONITO" tvg-logo="http://redworld.pro:8880/images/be37514186ea0e9928444db722509319.png" group-title="⭐️ Infantiles",KIDS | CARTOONITO
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/321975
+#EXTINF:-1 tvg-id="" tvg-name="KIDS | DISCOVERY KIDS" tvg-logo="http://redworld.pro:8880/images/9616dc155d8f864cd00ba06266376b5e.png" group-title="⭐️ Infantiles",KIDS | DISCOVERY KIDS
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/321976
+#EXTINF:-1 tvg-id="Disney Channel Latinoamérica" tvg-logo="https://i.postimg.cc/zvQG9RCp/images.jpg" group-title="TV Premium",Disney Channel Latinoamérica HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://181.78.8.199:8000/play/a0dn/index.m3u8
+#EXTINF:-1 tvg-id="Disney Channel Mexico" tvg-logo="https://i.postimg.cc/zvQG9RCp/images.jpg" group-title="TV Premium",Disney Channel Mexico HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://45.166.93.156:9999/play/a0f3/index.m3u8
+#EXTINF:-1 tvg-id="Nicken" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="TV Premium",Nick HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDS | DISNEY JUNIOR" tvg-logo="http://redworld.pro:8880/images/69ee308370f166ebd34ee64895d1c9a8.png" group-title="⭐️ Infantiles",KIDS | DISNEY JUNIOR
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/321981
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://docdog.top/logo/countries/spain/movistar/NICK_JR.png" group-title="TV Premium",ES: Nick Jr HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5720
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://docdog.top/logo/countries/spain/movistar/NICK_JR.png" group-title="TV Premium",ES: Nick Jr HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIDS | NICKELODEON" tvg-logo="http://redworld.pro:8880/images/5a9d428b61a7941c724e7c16747e0390.png" group-title="⭐️ Infantiles",KIDS | NICKELODEON
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/321984
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="TV Premium",ES: Nickelodeon HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5721
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="TV Premium",ES: Nickelodeon HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+#EXTINF:-1 tvg-name="bitMe" group-title="FENECTV" tvg-logo="https://i.postimg.cc/g0Z7zwBr/fenectv-anime.png",bitMe
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | DISTRITO COMEDIA OP1" tvg-logo="http://redworld.pro:8880/images/97d0f28a2d3f59df709661f256b9b753.png" group-title="⭐️ México",MX | DISTRITO COMEDIA OP1
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534779
+#EXTINF:-1 tvg-id="" tvg-name="MX | DISTRITO COMEDIA OP2" tvg-logo="http://redworld.pro:8880/images/97d0f28a2d3f59df709661f256b9b753.png" group-title="⭐️ México",MX | DISTRITO COMEDIA OP2
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534780
+#EXTINF:-1 tvg-id="" tvg-name="MX | DISTRITO COMEDIA OP3" tvg-logo="http://redworld.pro:8880/images/97d0f28a2d3f59df709661f256b9b753.png" group-title="⭐️ México",MX | DISTRITO COMEDIA OP3
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534781
+#EXTINF:-1 tvg-id="AMC " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",AMC HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://181.176.155.7:8090/play/a1vw/index.m3u8
+#EXTINF:-1 tvg-name="MultiPremier" group-title="FENECTV" tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png",MultiPremier
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://168.196.127.137:6001/play/a08n/index.m3u8
+#EXTINF:-1 tvg-name="Golden Plus" group-title="FENECTV" tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png",Golden Plus
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://45.5.118.152:8000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="http://redworld.pro:8880/images/4819f8c63a16d13f9f52cbe5ea3be3b1.png" group-title="⭐️ México",SYFY HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534819
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="http://redworld.pro:8880/images/8d977b8d465c9db48d7ece30651d2605.png" group-title="⭐️ México",CINEMAX
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534823
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | *C1NEMAX* SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxewXQeeMqr4uYRrmID1JE2WWx2qoDvNddQ&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *C1NEMAX* SD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414458
+#EXTINF:-1 tvg-id="" tvg-name="CINE | STAR CHANNEL  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUSC9j9pUIeP68TVeZFtU_BOi3beYtu0zAw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | STAR CHANNEL  HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414459
+#EXTINF:-1 tvg-id="" tvg-name="CINE | STAR CHANNEL  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUSC9j9pUIeP68TVeZFtU_BOi3beYtu0zAw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | STAR CHANNEL  FHD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414464
+#EXTINF:-1 tvg-id="" tvg-name="CINE | STAR CHANNEL  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUSC9j9pUIeP68TVeZFtU_BOi3beYtu0zAw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | STAR CHANNEL  SD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414460
+#EXTINF:-1 tvg-id="HBO " tvg-logo="https://i.postimg.cc/PJyz23cx/images.png" group-title="TV Premium",HBO HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1 tvg-id="FOX HD " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",FOX HD HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://181.176.155.7:8090/play/a1k9/index.m3u8
+#EXTINF:-1 tvg-id="WARNER " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",WARNER HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://181.176.155.7:8090/play/a1k5/index.m3u8
+#EXTINF:-1 tvg-id="HBO FAMILY " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",HBO FAMILY HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://181.176.155.7:8090/play/a1ff/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | *HBÖ* 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lZ0U7y83aMg8VcxHcLWyr8k4eK-vVK_TPw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *HBÖ* 2 HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414462
+#EXTINF:-1 tvg-id="" tvg-name="CINE | *HBÖ* 2 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lZ0U7y83aMg8VcxHcLWyr8k4eK-vVK_TPw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | *HBÖ* 2 SD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414463
+#EXTINF:-1 tvg-id="" tvg-name="CINE | *HBO* F@MILY  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | *HBO* F@MILY  HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414465
+#EXTINF:-1 tvg-id="" tvg-name="CINE | *HBO* F@MILY  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | *HBO* F@MILY  SD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414466
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | *HBO* POP  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *HBO* POP  HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414471
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | *HBO* POP SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | *HBO* POP SD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414472
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | TNT  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | TNT  HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414474
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | TNT  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | TNT  SD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414475
+#EXTINF:-1 tvg-id="" tvg-name="CINE  | TNT SERIES  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE  | TNT SERIES  FHD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414476
+#EXTINF:-1 tvg-id="" tvg-name="CINE | TNT SERIES  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | TNT SERIES  HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414477
+#EXTINF:-1 tvg-id="" tvg-name="CINE |  TNT SERIES  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE |  TNT SERIES  SD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414478
+#EXTINF:-1 tvg-id="" tvg-name="CINE | CINECANAL  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | CINECANAL  FHD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414479
+#EXTINF:-1 tvg-id="" tvg-name="CINE | CINECANAL  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | CINECANAL  HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414480
+#EXTINF:-1 tvg-id="Cine Premiere" tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="TV Premium",Cine Premiere HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE | CINECANAL  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | CINECANAL  SD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414481
+#EXTINF:-1 tvg-id="" tvg-name="CINE | AXN  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | AXN  HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414483
+#EXTINF:-1 tvg-id="" tvg-name="CINE | AXN  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | AXN  SD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414484
+#EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | WARNER  FHD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414485
+#EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | WARNER  HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414486
+#EXTINF:-1 tvg-id="Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="TV Premium",Cine Sony HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="TV Premium",Cine Sony HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE | SONY  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | SONY  FHD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414488
+#EXTINF:-1 tvg-id="" tvg-name="CINE | SONY  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | SONY  HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414489
+#EXTINF:-1 tvg-id="" tvg-name="CINE | SONY  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | SONY  SD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414490
+#EXTINF:-1 tvg-id="" tvg-name="CINE | FX  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | FX  HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414498
+#EXTINF:-1 tvg-id="" tvg-name="CINE | FX  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | FX  SD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414499
+#EXTINF:-1 tvg-id="" tvg-name="CINE | AMC  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | AMC  FHD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414503
+#EXTINF:-1 tvg-id="" tvg-name="CINE | AMC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | AMC HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414504
+#EXTINF:-1 tvg-id="" tvg-name="CINE | AMC  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | AMC  SD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414505
+#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | GOLDEN  FHD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414506
+#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | GOLDEN  HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414507
+#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | GOLDEN  SD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414508
+#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN EDG  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | GOLDEN EDG  FHD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414509
+#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN EDG  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | GOLDEN EDG  HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414510
+#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN EDG  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | GOLDEN EDG  SD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414511
+#EXTINF:-1 tvg-id="" tvg-name="CINE | PARAMOUNT CHANEL FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoLcVhN7sW34YgTU8sCI6EtLwRAeGUp9-h_A&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | PARAMOUNT CHANEL FHD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414512
+#EXTINF:-1 tvg-id="" tvg-name="CINE | PARAMOUNT CHANEL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoLcVhN7sW34YgTU8sCI6EtLwRAeGUp9-h_A&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | PARAMOUNT CHANEL HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414513
+#EXTINF:-1 tvg-id="" tvg-name="CINE | PARAMOUNT CHANEL SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoLcVhN7sW34YgTU8sCI6EtLwRAeGUp9-h_A&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | PARAMOUNT CHANEL SD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414514
+#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN PLUS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | GOLDEN PLUS HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414516
+#EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN PLUS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | GOLDEN PLUS SD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414517
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Comedy" tvg-logo="http://daleplay.club:8080/images/10960c1507792b39f21c3a1066a426a9.png" group-title="⭐️ CINE PREMIUM",P | Universal Comedy
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414519
+#EXTINF:-1 tvg-id="Rakuten Drama" tvg-logo="https://i.postimg.cc/fyQvNJM8/400caa96-4298-41ae-92a4-8a2406fc81c8.jpg" group-title="TV Premium",Rakuten Drama HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
+#EXTINF:-1 tvg-id="Rakuten Top" tvg-logo="https://i.postimg.cc/T31gBrr3/images.jpg" group-title="TV Premium",Rakuten Top HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+#EXTINF:-1 tvg-id="Rakuten TV Sci-Fi" tvg-logo="https://i.postimg.cc/FF7BB9Rj/images.jpg" group-title="TV Premium",Rakuten TV Sci-Fi HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
+#EXTINF:-1 tvg-id="Rakuten TV Drama" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="TV Premium",Rakuten TV Drama HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
+#EXTINF:-1 tvg-id="Rakuten TV Cine" tvg-logo="https://i.postimg.cc/kGmRKJYL/images.png" group-title="TV Premium",Rakuten TV Cine HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
+#EXTINF:-1 tvg-id="Rakuten TV Family" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="TV Premium",Rakuten TV Family HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
+#EXTINF:-1 tvg-id="Rakuten TV Top Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="TV Premium",Rakuten TV Top Movies HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+#EXTINF:-1 tvg-id="A&E " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",A&E HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://181.176.155.7:8090/play/a1vh/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="http://redworld.pro:8880/images/980dba9f836545ed57db65c90a92b7a7.png" group-title="⭐️ CULTURA",Discovery Home & Health HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/318605
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health SD" tvg-logo="http://redworld.pro:8880/images/980dba9f836545ed57db65c90a92b7a7.png" group-title="⭐️ CULTURA",Discovery Home & Health SD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/318606
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation HD" tvg-logo="http://redworld.pro:8880/images/b77369bd453a2ebf8b5391cfac3ab24a.png" group-title="⭐️ CULTURA",Discovery Investigation HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/318607
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Science" tvg-logo="http://redworld.pro:8880/images/d69e2b874961c77fcc63cc7798a56b85.png" group-title="⭐️ CULTURA",DISCOVERY Science
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/318608
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Theater" tvg-logo="http://redworld.pro:8880/images/a109eebfce6f68ed725f7fa89a059728.png" group-title="⭐️ CULTURA",DISCOVERY Theater
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/318610
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Turbo HD" tvg-logo="http://redworld.pro:8880/images/1463afaef86d27073fa41c8053a853a4.png" group-title="⭐️ CULTURA",DISCOVERY Turbo HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/318611
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY World SD" tvg-logo="http://redworld.pro:8880/images/8cd8bfde4f3359975e55ffef11065a50.png" group-title="⭐️ CULTURA",DISCOVERY World SD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/318612
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY World HD" tvg-logo="http://redworld.pro:8880/images/8cd8bfde4f3359975e55ffef11065a50.png" group-title="⭐️ CULTURA",DISCOVERY World HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/318613
+#EXTINF:-1 tvg-id="History.pe" tvg-name="HISTORY HD" tvg-logo="http://redworld.pro:8880/images/808e99e2aae48ae0129de1185b97dccb.png" group-title="⭐️ CULTURA",HISTORY HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/318617
+#EXTINF:-1 tvg-id="History2.pe" tvg-name="History 2 " tvg-logo="http://redworld.pro:8880/images/f9038ee8520c9eef7f168d1877caac8b.png" group-title="⭐️ CULTURA",History 2 
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/318618
+#EXTINF:-1 tvg-id="History2.pe" tvg-name="History 2 HD" tvg-logo="http://redworld.pro:8880/images/f9038ee8520c9eef7f168d1877caac8b.png" group-title="⭐️ CULTURA",History 2 HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/318619
+#EXTINF:-1 tvg-name="Azteca Deportes Network" group-title="FENECTV" tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png",Azteca Deportes Network
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
+#EXTINF:-1 tvg-name="TUDN" group-title="FENECTV" tvg-logo="https://i.postimg.cc/jwZ7tW7v/fenec-TV-sport.png",TUDN
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://45.182.22.53:8000/play/a0dt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TUDN" tvg-logo="http://redworld.pro:8880/images/125560725d883246b914f26e00667bce.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | TUDN
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/167770
+#EXTINF:-1 tvg-name="ESPN 1" group-title="FENECTV" tvg-logo="https://i.postimg.cc/jwZ7tW7v/fenec-TV-sport.png",ESPN 1
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://45.182.22.53:8000/play/a0ef/index.m3u8
+#EXTINF:-1 tvg-id="FOXSports.pe" tvg-name="F0X $PORTS 1 (CHI)" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="⭐️ CHILE DEPORTE",F0X $PORTS 1 (CHI)
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/120545
+#EXTINF:-1 tvg-id="" tvg-name="D3PÖRT3S | [$ŠPN-3]" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="⭐️ DƏPORTE VIP",D3PÖRT3S | [$ŠPN-3]
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/167725
+#EXTINF:-1 tvg-id="ESPN4.pe" tvg-name="D3PØRT3S | $ŠPN-4" tvg-logo="http://redworld.pro:8880/images/9c83acb71e6f939bae03936d2c827d7c.png" group-title="⭐️ DƏPORTE VIP",D3PØRT3S | $ŠPN-4
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/167726
+#EXTINF:-1 tvg-id="Star Sport 2" tvg-logo="https://i.postimg.cc/qRkX1gxN/ere.jpg" group-title="Sports",Star Sport 2 HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
+#EXTINF:-1 tvg-id="Star Sport 2" tvg-logo="https://i.postimg.cc/qRkX1gxN/ere.jpg" group-title="Sports",Star Sport 2 HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://tvsen7.aynascope.net/ssport2hd/index.m3u8
+#EXTINF:-1 tvg-id="FOX Tubi" tvg-logo="https://i.postimg.cc/w1T5jT2F/UL1Jt-Yb.png" group-title="Sports",FOX Tubi HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://a.tubi1.apollo.adrise.io/live/fox-en-tubi-pltefr/1280x720.m3u8?vpaid_enabled=false&tb.sid=9a539f74-386b-4ace-8aa8-e413ca822ebf&content_type=mp4&device_id=40c84c48-ba72-424e-8d34-2e20e689355e&language=es&app_id=tubitv&content_id=400000122&ap.ss=67e4733bc365f486dd798e2d63375b97&ap.pt=2&app_mode=DEFAULT_MODE&playback_start_ts=1788937007&ap.sid=74adf383-ba72-49e7-983f-4ac374010982&gdpr=0&platform=WEB&pub_id=21f12146acbab325bb229e55010b88c3&ap.playback_start_ts=1788937007&ap.route=-9xRhGYWETE48I6ILZL-rc5IzW4&now_pos=0
+#EXTINF:-1 tvg-id="FOXSports.pe" tvg-name="DEPORTES | F0X $PORTS 1" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | F0X $PORTS 1
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/167734
+#EXTINF:-1 tvg-id="FOX Deportes" tvg-logo="https://i.postimg.cc/SsW-r37jk/images.png" group-title="Sports",FOX Deportes HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8
+#EXTINF:-1 tvg-id="FOX Deportes" tvg-logo="https://i.postimg.cc/SsW-r37jk/images.png" group-title="Sports",FOX Deportes HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-id="FOX Sport 1" tvg-logo="https://i.postimg.cc/SsW-r37jk/images.png" group-title="Sports",FOX Sport 1 HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F0X $PORTS 3" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | F0X $PORTS 3
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/167736
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F0X $PORTS PREMIUM" tvg-logo="http://redworld.pro:8880/images/65d1b536a5c2eb33ca65344adeabdfba.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | F0X $PORTS PREMIUM
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/167737
+#EXTINF:-1 tvg-id="" tvg-name="*Ə$P*N 2 (CHI)" tvg-logo="http://redworld.pro:8880/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="⭐️ CHILE DEPORTE",*Ə$P*N 2 (CHI)
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/167964
+#EXTINF:-1 tvg-id="ar#espn" tvg-name="*Ə$*PN 3 (CHI)" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="⭐️ CHILE DEPORTE",*Ə$*PN 3 (CHI)
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/167965
+#EXTINF:-1 tvg-id="" tvg-name="D3PORTES | *Ê$P*N D3PORTES" tvg-logo="http://redworld.pro:8880/images/f4ba5e57ae936428596903dc26f482cc.png" group-title="⭐️ DƏPORTE VIP",D3PORTES | *Ê$P*N D3PORTES
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/167728
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | $ŠPN  NEWS" tvg-logo="http://redworld.pro:8880/images/cb88103bd31fe7d6cf58e9a7c023b120.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | $ŠPN  NEWS
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/167730
+#EXTINF:-1 tvg-id="ESPN 8" tvg-logo="https://i.postimg.cc/KcCGJPLs/images.jpg" group-title="Sports",ESPN 8 HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SPORTV" tvg-logo="http://redworld.pro:8880/images/20498f15eb9325a86465744668037e26.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | SPORTV
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/167774
+#EXTINF:-1 tvg-id="ESPN.pe" tvg-name="AR | $ŠPN-1" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="⭐️ Deporte Argentina",AR | $ŠPN-1
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/327914
+#EXTINF:-1 tvg-id="" tvg-name="AR | [$ŠPN 2]" tvg-logo="http://redworld.pro:8880/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="⭐️ Deporte Argentina",AR | [$ŠPN 2]
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/327915
+#EXTINF:-1 tvg-id="" tvg-name="AR | ($ŠPN -3)" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="⭐️ Deporte Argentina",AR | ($ŠPN -3)
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/327916
+#EXTINF:-1 tvg-id="lch3952" tvg-name="PE | 3$PN 2 HD" tvg-logo="http://redworld.pro:8880/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="⭐️ DƏPORTES PE",PE | 3$PN 2 HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/533397
+#EXTINF:-1 tvg-id="lch2776" tvg-name="PE*| €SPN* 3 HD" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="⭐️ DƏPORTES PE",PE*| €SPN* 3 HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/533398
+#EXTINF:-1 tvg-id="lch2813" tvg-name="PE*| 3$PN 4 HD" tvg-logo="http://redworld.pro:8880/images/9c83acb71e6f939bae03936d2c827d7c.png" group-title="⭐️ DƏPORTES PE",PE*| 3$PN 4 HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/533399
+#EXTINF:-1 tvg-id="lch2339" tvg-name="PE*| 3$PN 5 HD" tvg-logo="http://redworld.pro:8880/images/4d22fe6b127ecce043d9482a792b020f.png" group-title="⭐️ DƏPORTES PE",PE*| 3$PN 5 HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/533400
+#EXTINF:-1 tvg-id="lch2341" tvg-name="PE*| 3$PN 6 HD" tvg-logo="http://redworld.pro:8880/images/fd5601481f6a11427ecbf909ecdaffb5.png" group-title="⭐️ DƏPORTES PE",PE*| 3$PN 6 HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/533401
+#EXTINF:-1 tvg-id="lch2340" tvg-name="PE*| 3$PN 7 HD" tvg-logo="http://redworld.pro:8880/images/6f2d6bdb1f6a118e736d2126df503e12.png" group-title="⭐️ DƏPORTES PE",PE*| 3$PN 7 HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/533402
+#EXTINF:-1 tvg-id="lch3298" tvg-name="PE| MOVISTAR DEPORTES HD" tvg-logo="http://redworld.pro:8880/images/d433e275a9107f856d8c228da5603b8a.png" group-title="⭐️ DƏPORTES PE",PE| MOVISTAR DEPORTES HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/533409
+#EXTINF:-1 tvg-id="lch3298" tvg-name="PE| MOVISTAR DEPORTES SD" tvg-logo="http://redworld.pro:8880/images/d433e275a9107f856d8c228da5603b8a.png" group-title="⭐️ DƏPORTES PE",PE| MOVISTAR DEPORTES SD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/533410
 #EXTINF:-1 tvg-id="/Las Tortugas Ninja" tvg-logo="https://i.postimg.cc/GhzC8r0k/Las-Tortugas-Ninja-Serie-de-TV-372578913-large.jpg" group-title="TV Premium",Las Tortugas Ninja HD
 https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
-#EXTINF:-1 tvg-id="Mr Bean" tvg-logo="https://i.postimg.cc/T1gsXzmC/images.jpg" group-title="TV Premium",Mr Bean HD
-https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Batman Animado" tvg-logo="http://redworld.pro:8880/images/f8f65478effdd79cd447572c7f17cfe8.png" group-title="✅ 24/7 VIP",24/7 Batman Animado
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526491
 #EXTINF:-1 tvg-id="Comedy Central South Park" tvg-logo="https://i.postimg.cc/Y0ZPcph1/images.jpgg" group-title="Comedia ",Comedy Central South Park HD
 https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
+#EXTINF:-1 tvg-id="Pluto Anime TV" tvg-logo="https://i.postimg.cc/c1pTNkFM/images.jpg" group-title="Anime",Pluto Anime TV HD
+https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
+#EXTINF:-1 tvg-id="Max Anime" tvg-logo="https://i.postimg.cc/PrSgf4ZV/descarga.png" group-title="Anime",Max Anime HD
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Naruto TV Serie" tvg-logo="https://i.postimg.cc/2y80gsHm/images.jpg" group-title="Anime",Naruto TV Serie HD
 https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
 #EXTINF:-1 tvg-id="Naruto Shippuden TV" tvg-logo="https://i.postimg.cc/44LPmFL8/images.jpg" group-title="Anime",Naruto Shippuden TV HD
 https://jmp2.uk/plu-64c92f965580090008084968.m3u8
 #EXTINF:-1 tvg-id="Boruto TV" tvg-logo="https://i.postimg.cc/0jRShF9f/images.webp" group-title="Anime",Boruto TV HD
 https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
-#EXTINF:-1 tvg-id="Max Anime" tvg-logo="https://i.postimg.cc/PrSgf4ZV/descarga.png" group-title="Anime",Max Anime HD
-https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-id="One Piece TV Series" tvg-logo="https://i.postimg.cc/CMXDyyrc/images.jpg" group-title="Anime",One Piece TV Series HD
 https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
 #EXTINF:-1 tvg-id="One Piece TV Series" tvg-logo="https://i.postimg.cc/CMXDyyrc/images.jpg" group-title="Anime",One Piece TV Series HD
 https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
-#EXTINF:-1 tvg-id="Pluto Anime TV" tvg-logo="https://i.postimg.cc/c1pTNkFM/images.jpg" group-title="Anime",Pluto Anime TV HD
-https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
-#EXTINF:-1 tvg-id="Pluto Anime TV" tvg-logo="https://i.postimg.cc/c1pTNkFM/images.jpg" group-title="Anime",Pluto Anime TV HD
-https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8
-#EXTINF:-1 tvg-id="Infinita TV Premium" tvg-name="Infinita TV Premium" tvg-logo="https://cdn.m3u.cl/logo/484_Infinita_TV_Premium.png" group-title="TV Premium", Infinita TV Premium HD
-https://s2.tvdatta.com:3753/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="Imagen Universal" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="TV Premium",Imagen Universal HD
-https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-#EXTINF:-1 tvg-name="Aguacate TV" tvg-logo="https://intervenhosting.net/imagenes/aguacatetv.jpg" tvg-id="AguacateTV.ve" tvg-chno="12" tvg-country="VE" group-title="TV Premium",Aguacate TV
-https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="HBO " tvg-logo="https://i.postimg.cc/PJyz23cx/images.png" group-title="TV Premium",HBO HD
-https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-#EXTINF:-1 tvg-id="HBO Hits" tvg-logo="https://i.postimg.cc/X7C0LPPW/images.png" group-title="TV Premium",HBO Hits HD
-https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
-#EXTINF:-1 tvg-id="Hbo Movie" tvg-logo="https://i.postimg.cc/zXZqs5KN/images.jpg" group-title="TV Premium",Hbo Movie HD
-https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
-#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="https://i.imgur.com/warner-logo.png" group-title="TV Premium",Warner HD
-http://179.51.136.19:8000/play/a0wx/index.m3u8
-#EXTINF:-1 tvg-id="Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="TV Premium",Cine Sony HD
-http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="TV Premium",Cine Sony HD
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="TV Premium",Cine Sony HD
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Cine Premiere" tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="TV Premium",Cine Premiere HD
-https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
-#EXTINF:-1 tvg-id="AXN Latinoamerica" tvg-logo="https://i.postimg.cc/YScKTzJR/images.png" group-title="TV Premium",AXN Latinoamerica HD
-http://177.234.249.178:8888/AXN/index.m3u8
-#EXTINF:-1 tvg-id="My Time Movie" tvg-logo="https://i.postimg.cc/d3Z9MGM0/images.jpg" group-title="TV Premium",My Time Movie HD
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Rakuten Drama" tvg-logo="https://i.postimg.cc/fyQvNJM8/400caa96-4298-41ae-92a4-8a2406fc81c8.jpg" group-title="TV Premium",Rakuten Drama HD
-https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
-#EXTINF:-1 tvg-id="Rakuten Top" tvg-logo="https://i.postimg.cc/T31gBrr3/images.jpg" group-title="TV Premium",Rakuten Top HD
-https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-#EXTINF:-1 tvg-id="Historia " tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="TV Premium",Historia HD
-https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
-#EXTINF:-1 tvg-id="Cine Terror" tvg-logo="https://i.postimg.cc/MTWyPyTB/images.png" group-title="TV Premium",Cine Terror HD
-https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
-#EXTINF:-1 tvg-id="Rakuten TV Sci-Fi" tvg-logo="https://i.postimg.cc/FF7BB9Rj/images.jpg" group-title="TV Premium",Rakuten TV Sci-Fi HD
-https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
-#EXTINF:-1 tvg-id="Rakuten TV Drama" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="TV Premium",Rakuten TV Drama HD
-https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
-#EXTINF:-1 tvg-id="Rakuten TV Cine" tvg-logo="https://i.postimg.cc/kGmRKJYL/images.png" group-title="TV Premium",Rakuten TV Cine HD
-https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
-#EXTINF:-1 tvg-id="Rakuten TV Family" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="TV Premium",Rakuten TV Family HD
-https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
-#EXTINF:-1 tvg-id="Rakuten TV Top Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="TV Premium",Rakuten TV Top Movies HD
-https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-#EXTINF:-1 tvg-id="Cine Western" tvg-logo="https://i.imgur.com/2UROzSc.png" group-title="TV Premium",Cine Western HD
-https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
-#EXTINF:-1 tvg-id="CRTV Chile" tvg-logo="https://i.postimg.cc/85fmrLyz/images.jpg" group-title="TV Premium",CRTV Chile HD
-https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
-#EXTINF:-1 tvg-id="A Sport" tvg-logo="https://i.postimg.cc/fTJYrc7V/images.jpg" group-title="Sports",A Sport HD
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:-1 tvg-id="Accion" tvg-logo="https://i.postimg.cc/mDPF5RMV/images.jpg" group-title="Sports",Accion HD
-https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ACI Sport" tvg-logo="https://i.postimg.cc/xjy0VhRm/images.png" group-title="Sports",ACI Sport HD
-https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-#EXTINF:-1 tvg-id="beINSPORTS XTRAen" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",beIN Sports XTRA HD
-https://bein-xtra-bein.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTS XTRAen" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",beIN Sports XTRA HD
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN 8" tvg-logo="https://i.postimg.cc/KcCGJPLs/images.jpg" group-title="Sports",ESPN 8 HD
-https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
-#EXTINF:-1 tvg-id="ESPN 8" tvg-logo="https://i.postimg.cc/KcCGJPLs/images.jpg" group-title="Sports",ESPN 8 HD
-https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
-#EXTINF:-1 tvg-id="ESPN U" tvg-logo="https://i.postimg.cc/vZzspVtZ/images.png" group-title="Sports",ESPN U HD
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:-1 tvg-id="ESPN U" tvg-logo="https://i.postimg.cc/vZzspVtZ/images.png" group-title="Sports",ESPN U HD
-http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
-#EXTINF:-1 tvg-id="FOX Deportes" tvg-logo="https://i.postimg.cc/SsW-r37jk/images.png" group-title="Sports",FOX Deportes HD
-https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8
-#EXTINF:-1 tvg-id="FIFA+ Español" tvg-logo="https://i.postimg.cc/P5BWnCX6/images.jpg" group-title="Sports",FIFA+ Español HD
-https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="FIFA+ EEUU" tvg-logo="https://i.postimg.cc/P5BWnCX6/images.jpg" group-title="Sports",FIFA+ EEUU HD
-https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id=""FIFA+ Women tvg-logo="https://i.postimg.cc/HkCWGHGb/images.jpg" group-title="Sports",FIFA+ Women HD
-https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="FloHockey" tvg-logo="https://i.postimg.cc/XvP7z5nN/images.jpg" group-title="Sports",FloHockey HD
-https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FOX Deportes" tvg-logo="https://i.postimg.cc/SsW-r37jk/images.png" group-title="Sports",FOX Deportes HD
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:-1 tvg-id="FOX Sport 1" tvg-logo="https://i.postimg.cc/SsW-r37jk/images.png" group-title="Sports",FOX Sport 1 HD
-http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-#EXTINF:-1 tvg-id="FOX Sport 2" tvg-logo="https://i.postimg.cc/SsW-r37jk/images.png" group-title="Sports",FOX Sport 2 HD
-https://tvsen7.aynascope.net/foxsports2/index.m3u8
-#EXTINF:-1 tvg-id="Fuel Tv" tvg-logo="https://i.postimg.cc/26NgyjwH/images.png" group-title="Sports",Fuel Tv HD
-https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Ge Fast Tv" tvg-logo="https://i.postimg.cc/QxPsQTJZ/images.jpg" group-title="Sports",Ge Fast Tv HD
-https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NBA Tv" tvg-logo="https://i.postimg.cc/y8yHwbzj/descarga.png" group-title="Sports",NBA Tv HD
-https://cdn1.ayitistream.com/NBATV/index.m3u8
-#EXTINF:-1 tvg-id="NBC Sport Now" tvg-logo="https://i.postimg.cc/K8wPhJrc/44.png" group-title="Sports",NBC Sport Now HD
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
-#EXTINF:-1 tvg-id="NFL Channel" tvg-logo="https://i.postimg.cc/nrXVxY1b/ere.jpg" group-title="Sports",NFL Channel HD
-https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
-#EXTINF:-1 tvg-id="Real Madrid Tv" tvg-logo="https://i.postimg.cc/CLFTb48M/ere.jpg" group-title="Sports",Real Madrid Tv HD
-http://88.212.15.19/live/real_madrid_tv/index.m3u8
-#EXTINF:-1 tvg-id="SKY Racing" tvg-logo="https://i.postimg.cc/gjm5qYnS/ere.jpg" group-title="Sports",SKY Racing HD
-https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
-#EXTINF:-1 tvg-id="SKY Racing" tvg-logo="https://i.postimg.cc/gjm5qYnS/ere.jpg" group-title="Sports",SKY Racing HD
-https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
-#EXTINF:-1 tvg-id="Star Sport 2" tvg-logo="https://i.postimg.cc/qRkX1gxN/ere.jpg" group-title="Sports",Star Sport 2 HD
-http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
-#EXTINF:-1 tvg-id="Star Sport 2" tvg-logo="https://i.postimg.cc/qRkX1gxN/ere.jpg" group-title="Sports",Star Sport 2 HD
-http://tvsen7.aynascope.net/ssport2hd/index.m3u8
-#EXTINF:-1 tvg-id="FOX Tubi" tvg-logo="https://i.postimg.cc/w1T5jT2F/UL1Jt-Yb.png" group-title="Sports",FOX Tubi HD
-https://a.tubi1.apollo.adrise.io/live/fox-en-tubi-pltefr/1280x720.m3u8?vpaid_enabled=false&tb.sid=9a539f74-386b-4ace-8aa8-e413ca822ebf&content_type=mp4&device_id=40c84c48-ba72-424e-8d34-2e20e689355e&language=es&app_id=tubitv&content_id=400000122&ap.ss=67e4733bc365f486dd798e2d63375b97&ap.pt=2&app_mode=DEFAULT_MODE&playback_start_ts=1788937007&ap.sid=74adf383-ba72-49e7-983f-4ac374010982&gdpr=0&platform=WEB&pub_id=21f12146acbab325bb229e55010b88c3&ap.playback_start_ts=1788937007&ap.route=-9xRhGYWETE48I6ILZL-rc5IzW4&now_pos=0
-#EXTINF:-1 tvg-id="Teleritmo" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Music",Teleritmo HD
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-id="Visión Television" tvg-logo="https://i.imgur.com/HV5tgcM.png" group-title="Music",Vision Televisión HD
-https://cloudvideo.servers10.com:8081/8016/index.m3u8
-#EXTINF:-1 tvg-id="Blues TV" tvg-logo="https://i.postimg.cc/qvM1mhmF/descarga.png" group-title="Music",Blues TV HD
-https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Classic TV" tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="Music", Classic TV HD
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Slam Dunk" tvg-logo="http://redworld.pro:8880/images/54f10f101a3d113d9038bdaff1cf4c0c.jpg" group-title="✅ 24/7 VIP",24/7 Slam Dunk
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526482
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Piece (2023)" tvg-logo="http://redworld.pro:8880/images/61c74037041722a9e905becdf3eb0fbb.jpg" group-title="✅ 24/7 VIP",24/7 One Piece (2023)
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526497
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POKEMON 03 - 05 TEMPORADAS" tvg-logo="http://redworld.pro:8880/images/72b2a9ad0f335c44bd990f81509c2ad4.jpg" group-title="✅ 24/7 VIP",24/7 POKEMON 03 - 05 TEMPORADAS
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526498
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mazinger Z" tvg-logo="http://redworld.pro:8880/images/6b60cc8871cb88067947ecf6dbffc4dd.jpg" group-title="✅ 24/7 VIP",24/7 Mazinger Z
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526510
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Temporada  1-3" tvg-logo="http://redworld.pro:8880/images/43b0ea0e20127fbdcaedca3a9a032def.jpg" group-title="✅ 24/7 VIP",24/7 Naruto Temporada  1-3
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526520
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto Temporada 4-5" tvg-logo="http://redworld.pro:8880/images/43b0ea0e20127fbdcaedca3a9a032def.jpg" group-title="✅ 24/7 VIP",24/7 Naruto Temporada 4-5
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526521
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Death Note" tvg-logo="http://redworld.pro:8880/images/84589aa4261bd4d554788680d5c68327.png" group-title="✅ 24/7 VIP",24/7 Death Note
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526533
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super" tvg-logo="http://redworld.pro:8880/images/f73ca4c3e7af24b7f5e7f4c8609d3860.png" group-title="✅ 24/7 VIP",24/7 Dragon Ball Super
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526557
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon ball Super 1-14" tvg-logo="http://redworld.pro:8880/images/f73ca4c3e7af24b7f5e7f4c8609d3860.png" group-title="✅ 24/7 VIP",24/7 - Dragon ball Super 1-14
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526353
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon ball Super 15-27" tvg-logo="http://redworld.pro:8880/images/f73ca4c3e7af24b7f5e7f4c8609d3860.png" group-title="✅ 24/7 VIP",24/7 - Dragon ball Super 15-27
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526354
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon ball Super 28-46" tvg-logo="http://redworld.pro:8880/images/f73ca4c3e7af24b7f5e7f4c8609d3860.png" group-title="✅ 24/7 VIP",24/7 - Dragon ball Super 28-46
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526355
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon ball Super 47-76" tvg-logo="http://redworld.pro:8880/images/f73ca4c3e7af24b7f5e7f4c8609d3860.png" group-title="✅ 24/7 VIP",24/7 - Dragon ball Super 47-76
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526356
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas Dragon Ball Z" tvg-logo="http://redworld.pro:8880/images/eeff9c1fdf6786e8712b0bcb6877e34d.jpg" group-title="✅ 24/7 VIP",24/7 Peliculas Dragon Ball Z
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526559
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Caballeros del Zodiaco 01" tvg-logo="http://redworld.pro:8880/images/39bc1d236350af0b6d6670555c703e7d.png" group-title="✅ 24/7 VIP",24/7 Caballeros del Zodiaco 01
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526474
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Caballeros del Zodiaco 02" tvg-logo="http://redworld.pro:8880/images/39bc1d236350af0b6d6670555c703e7d.png" group-title="✅ 24/7 VIP",24/7 Caballeros del Zodiaco 02
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526524
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Astroboy" tvg-logo="http://redworld.pro:8880/images/4d1ad9f460dff4439393f9be75fe4ea0.jpg" group-title="✅ 24/7 VIP",24/7 Astroboy
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526475
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sailor Moon" tvg-logo="http://redworld.pro:8880/images/05008b79609edd5d4fafbe16f5d8852f.jpg" group-title="✅ 24/7 VIP",24/7 Sailor Moon
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526476
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas Pokemon" tvg-logo="http://redworld.pro:8880/images/c0ab65dac088f30b028af0ff692c43bb.jpg" group-title="✅ 24/7 VIP",24/7 Peliculas Pokemon
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526454
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Robotech" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__nmteICfa-SB9CZ3voNncnXAG8JbUTtmRg&s" group-title="✅ 24/7 VIP",24/7 - Robotech
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526446
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball Heroes" tvg-logo="http://redworld.pro:8880/images/5b550a15b66774852f039dea433d29fb.jpg" group-title="✅ 24/7 VIP",24/7 - Dragon Ball Heroes
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526331
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball 1 al 76" tvg-logo="http://redworld.pro:8880/images/47fae34277b9e3a01392eec0c49a5434.jpg" group-title="✅ 24/7 VIP",24/7 - Dragon Ball 1 al 76
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526403
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball 77 al 153" tvg-logo="http://redworld.pro:8880/images/47fae34277b9e3a01392eec0c49a5434.jpg" group-title="✅ 24/7 VIP",24/7 - Dragon Ball 77 al 153
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526404
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Saiyajin" tvg-logo="http://redworld.pro:8880/images/4c4ff64022dc214db4e2a5c4dbcf3b55.jpg" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Saga Saiyajin
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526405
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga Namek" tvg-logo="http://redworld.pro:8880/images/2de97ee1bcdd0d18ffb3bc92c35c4e69.jpg" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Saga Namek
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526406
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga de Garlic" tvg-logo="http://redworld.pro:8880/images/ec49ab1f5e2ae065d26dbac864ee0510.jpg" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Saga de Garlic
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526407
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Arco de los Androides" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5efd1182-6241-4ccf-98e8-fdaae8d38109/dekn46d-26e0a1ca-5abb-4ded-b952-5d8f74b594a4.jpg/v1/fill/w_1024,h_1536,q_75,strp/dragon_ball_z_android_saga_by_raydash30_dekn46d-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTUzNiIsInBhdGgiOiJcL2ZcLzVlZmQxMTgyLTYyNDEtNGNjZi05OGU4LWZkYWFlOGQzODEwOVwvZGVrbjQ2ZC0yNmUwYTFjYS01YWJiLTRkZWQtYjk1Mi01ZDhmNzRiNTk0YTQuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.YP9NqbgW2FFfco3n1p17uqEn-8vPiX-Mp_VFE_DJ9sM" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Arco de los Androides
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526408
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga de Cell" tvg-logo="https://d32qys9a6wm9no.cloudfront.net/images/tvs/poster/4b/a36f2a757f661fe5af341de8949dfaed_300x442.jpg?t=1697113801" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Saga de Cell
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526409
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Torneo de Cell" tvg-logo="http://redworld.pro:8880/images/2f55a72e0b25e5368a37b8c8a2259378.jpg" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Torneo de Cell
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526410
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z - Saga De Majin Boo" tvg-logo="http://redworld.pro:8880/images/43fd41572682dc8ebe1065e614182799.jpg" group-title="✅ 24/7 VIP",24/7 Dragon Ball Z - Saga De Majin Boo
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526411
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball GT" tvg-logo="http://redworld.pro:8880/images/97ea0f2dc94d97680f00cd1974aaaad5.jpg" group-title="✅ 24/7 VIP",24/7 - Dragon Ball GT
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526413
+#EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball Daima" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/330c00fc-b630-4c55-b95f-cf1ad592d4b7/die0vkw-d4710649-0d29-43cf-a2a8-70fecfa9ba61.png/v1/fill/w_1032,h_774/dragon_ball_daima_logo__unofficial__by_distortedgamer07_die0vkw-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6Ii9mLzMzMGMwMGZjLWI2MzAtNGM1NS1iOTVmLWNmMWFkNTkyZDRiNy9kaWUwdmt3LWQ0NzEwNjQ5LTBkMjktNDNjZi1hMmE4LTcwZmVjZmE5YmE2MS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5gsSaamfa0OFUBUXN0hz2ufxBaInJgaIWwoSuSpziLk" group-title="✅ 24/7 VIP",24/7 - Dragon Ball Daima
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526447
 #EXTINF:-1 tvg-id="Metallica Master Of Puppets" tvg-logo="https://i.postimg.cc/xdVWTynF/ere.jpg" group-title="Music",Metallica Master Of Puppets HD
 https://ia903101.us.archive.org/17/items/metallica-master-of-puppets-manchester-england-june-18-2019-1080-p-hd/Metallica_%20Master%20of%20Puppets%20%28Manchester_%20England%20-%20June%2018_%202019%29%281080P_HD%29.mp4
 #EXTINF:-1 tvg-id="Nirvana Come As You Are" tvg-logo="https://i.postimg.cc/KzqqLnh4/ere.jpg" group-title="Music",Nirvana Come As You Are HD
@@ -200,26 +760,32 @@ https://ia803101.us.archive.org/25/items/smash-mouth-all-star-1080-p-hd/Smash%20
 https://ia600106.us.archive.org/18/items/run-dmc-walk-this-way-official-hd-video-ft.-aerosmith-1080-p-hd/RUN%20DMC%20-%20Walk%20This%20Way%20%28Official%20HD%20Video%29%20ft.%20Aerosmith%281080P_HD%29.mp4
 #EXTINF:-1 tvg-id="Aerosmith Dream On " tvg-logo="https://i.postimg.cc/Gtzy9jWS/ere.jpg" group-title="Music",Aerosmith Dream On HD
 https://ia800604.us.archive.org/1/items/aerosmith-dream-on-live-from-mexico-city-2016-1080-p-hd/Aerosmith%20-%20Dream%20On%20%28Live%20From%20Mexico%20City_%202016%29%281080P_HD%29.mp4
-#EXTINF:-1 tvg-id="Moana Live Action" tvg-logo="https://i.postimg.cc/NFQs9vYL/ere.jpg" group-title="PELICULAS HD",Moana Live Action HD
+#EXTINF:-1 tvg-id="Moana Live Action" tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="PELICULAS HD",Moana Live Action HD
 https://ia801500.us.archive.org/18/items/moana-2026_202609/Moana%202026.mp4
-#EXTINF:-1 tvg-id="Esta entre nosotros" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY4YjM1OGItMDlmMi00OTU1LWEzM2MtZGMyZTQ1NzhiM2VhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="PELICULAS HD",Estan entre Nosotros HD
+#EXTINF:-1 tvg-id="Esta entre nosotros" tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="PELICULAS HD",Estan entre Nosotros HD
 https://ia600605.us.archive.org/19/items/nd-entre-nosotros/ND%20entre%20nosotros.mp4
-#EXTINF:-1 tvg-id="A&E " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",A&E HD
-http://181.176.155.7:8090/play/a1vh/index.m3u8
-#EXTINF:-1 tvg-id="A&E " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",A&E HD
-http://181.176.155.7:8090/play/a1vh/index.m3u8
-#EXTINF:-1 tvg-id="AMC " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",AMC HD
-http://181.176.155.7:8090/play/a1vw/index.m3u8
-#EXTINF:-1 tvg-id="FOX HD " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",FOX HD HD
-http://181.176.155.7:8090/play/a1k9/index.m3u8
-#EXTINF:-1 tvg-id="WARNER " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",WARNER HD
-http://181.176.155.7:8090/play/a1k5/index.m3u8
-#EXTINF:-1 tvg-id="HBO FAMILY " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",HBO FAMILY HD
-http://181.176.155.7:8090/play/a1ff/index.m3u8
-#EXTINF:-1 tvg-id="HBO EXTREM " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",HBO XTREM HD
-http://181.176.155.7:8090/play/a1fg/index.m3u8
-#EXTINF:-1 tvg-id="STAR CHANNEL " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",STAR CHANNEL HD
-http://181.176.155.7:8090/play/a1ka/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
