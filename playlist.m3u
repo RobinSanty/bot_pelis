@@ -31,6 +31,26 @@ http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534778
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534788
+#EXTINF:0,Canal 6 Multimedios tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal 6 Multimedios
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,Canal 6 Mty tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal 6 Mty
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+#EXTINF:0,Canal 6 Mty tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal 6 Mty
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
+#EXTINF:0,Canal 6 Mty tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal 6 Mty
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 6 Multimedios MX tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal 6 Multimedios MX
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX | MILENIO HD" tvg-logo="http://redworld.pro:8880/images/78805a221a988e79ef3f42d7c5bfd418.png" group-title="⭐️ México",MX | MILENIO HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
@@ -59,10 +79,18 @@ http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/135435
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/135429
+#EXTINF:0,Tlnovelas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",TL NOVELAS
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://190.60.39.220:8000/play/a08k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 - La Rosa De Guadalupe" tvg-logo="http://redworld.pro:8880/images/087f3f0ec21ae979bf3b290d0022d0a4.jpg" group-title="✅ 24/7 VIP",24/7 - La Rosa De Guadalupe
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526416
+#EXTINF:0,ImagenTV tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",ImagenTV
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="TV Abierta",Las Estrellas HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
@@ -83,6 +111,22 @@ http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534766
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:0,Las Estellas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Las Estrellas
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:0,Las Estellas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Las Estrellas
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://190.60.39.220:8000/play/a06p/index.m3u8
+#EXTINF:0,Las Estellas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Las Estrellas
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
+#EXTINF:0,Las Estellas tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Las Estrellas
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 #EXTINF:-1 tvg-id="Cine Estrella" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="TV Abierta",Cine Estrella HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
@@ -131,6 +175,10 @@ https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/534771
+#EXTINF:0,Azteca 7 tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Canal Azteca 7
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MX | AZTECA 7 FHD" tvg-logo="http://redworld.pro:8880/images/3a1aedf21b4c1c6d640c5a73f62d0e86.png" group-title="⭐️ México",MX | AZTECA 7 FHD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
@@ -156,6 +204,30 @@ https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
 http://angelexspectrus.neospaxy.top:8080/Bartolomemuro/1234/5596
+#EXTINF:0,Disney Channel tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Disney Channel
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://45.166.93.156:9999/play/a0f3/index.m3u8
+#EXTINF:0,Disney Channel tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Disney Channel
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
+#EXTINF:0,Disney Channel tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Disney Channel
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://45.166.93.156:9999/play/a0f3/index.m3u8
+#EXTINF:0,Disney Channel tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Disney Channel
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
+#EXTINF:0,Disney Jr tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Disney Jr
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://190.14.10.19:16000/play/a02d/index.m3u8
+#EXTINF:0,Disney Jr tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Disney Jr
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://181.78.14.26:4000/play/a073/index.m3u8
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Junior.png" group-title="TV Premium",ES: Disney Junior HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
@@ -276,6 +348,46 @@ http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414464
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414460
+#EXTINF:0,FX HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",FX HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://190.60.39.220:8000/play/a076/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINE | FX  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | FX  HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414498
+#EXTINF:-1 tvg-id="" tvg-name="CINE | FX  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | FX  SD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414499
+#EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | WARNER  FHD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414485
+#EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | WARNER  HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414486
+#EXTINF:0,Warner TV HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",WARNER TV HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://190.60.39.220:8000/play/a071/index.m3u8
+#EXTINF:-1 tvg-id="WARNER " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",WARNER HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://181.176.155.7:8090/play/a1k5/index.m3u8
+#EXTINF:0,Warner HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Warner HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://181.78.79.131:8000/play/a0sz
+#EXTINF:0,Warner HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",Warner HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://181.78.79.131:8000/play/a0pz
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TvtsFbT/Logo-imagen-Universal.png" group-title="LATINOAMERICA",Imagen  Universal TV HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 tvg-id="HBO " tvg-logo="https://i.postimg.cc/PJyz23cx/images.png" group-title="TV Premium",HBO HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
@@ -284,10 +396,10 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
 http://181.176.155.7:8090/play/a1k9/index.m3u8
-#EXTINF:-1 tvg-id="WARNER " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",WARNER HD
+#EXTINF:11,Star Channel HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",STAR CHANNEL HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
-http://181.176.155.7:8090/play/a1k5/index.m3u8
+http://190.60.39.220:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-id="HBO FAMILY " tvg-logo="https://c8.alamy.com/comp/2CB99X7/tv-icon-logo-vector-illustration-design-template-2CB99X7.jpg" group-title="TV HD",HBO FAMILY HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
@@ -360,14 +472,14 @@ http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414483
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414484
-#EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | WARNER  FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v645nnX1/Logo-Sony-Cine.png" group-title="LATINOAMERICA",Sony Cine HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414485
-#EXTINF:-1 tvg-id="" tvg-name="CINE | WARNER  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | WARNER  HD
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Mn2K6Km/Logo-Sony-Canal-Novelas.png" group-title="LATINOAMERICA",Sony One Novelas
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414486
+https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
 #EXTINF:-1 tvg-id="Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="TV Premium",Cine Sony HD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
@@ -376,6 +488,14 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:0,Sony HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",SONY HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://190.60.39.220:8000/play/a070/index.m3u8
+#EXTINF:0,Sony Movies tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",SONY MOVIES
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://190.60.39.220:8000/play/a060/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE | SONY  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | SONY  FHD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
@@ -388,14 +508,6 @@ http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414489
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414490
-#EXTINF:-1 tvg-id="" tvg-name="CINE | FX  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | FX  HD
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414498
-#EXTINF:-1 tvg-id="" tvg-name="CINE | FX  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | FX  SD
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-reconnect=true
-http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414499
 #EXTINF:-1 tvg-id="" tvg-name="CINE | AMC  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | AMC  FHD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
@@ -408,6 +520,14 @@ http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414504
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/414505
+#EXTINF:0,Golden Edge tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",GOLDEN EDGE
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://190.60.39.220:8000/play/a07m/index.m3u8
+#EXTINF:0,Golden HD tvg-logo="https://i.postimg.cc/9F1Wdb8v/Captura-de-pantalla-2026-09-22-203301.png" group-title="FenecTV",GOLDEN HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-reconnect=true
+http://190.60.39.220:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE | GOLDEN  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | GOLDEN  FHD
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
@@ -746,6 +866,29 @@ http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526411
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526413
 #EXTINF:-1 tvg-id="" tvg-name="24/7 - Dragon Ball Daima" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/330c00fc-b630-4c55-b95f-cf1ad592d4b7/die0vkw-d4710649-0d29-43cf-a2a8-70fecfa9ba61.png/v1/fill/w_1032,h_774/dragon_ball_daima_logo__unofficial__by_distortedgamer07_die0vkw-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6Ii9mLzMzMGMwMGZjLWI2MzAtNGM1NS1iOTVmLWNmMWFkNTkyZDRiNy9kaWUwdmt3LWQ0NzEwNjQ5LTBkMjktNDNjZi1hMmE4LTcwZmVjZmE5YmE2MS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5gsSaamfa0OFUBUXN0hz2ufxBaInJgaIWwoSuSpziLk" group-title="✅ 24/7 VIP",24/7 - Dragon Ball Daima
 http://superxlatino.com:8880/Daniel/9dMvRgg3fbn5/526447
+#EXTINF:0,Sakura Card Captor Español cap 1 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 1
+https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2001%20en%20Espa%C3%B1ol%20latino.mp4
+#EXTINF:0,Sakura Card Captor Español cap 2 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 2
+https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2002%20en%20Espa%C3%B1ol%20latino.mp4
+#EXTINF:0,Sakura Card Captor Español cap 3 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 3
+https://dn600300.us.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2003%20en%20Espa%C3%B1ol%20latino.mp4
+#EXTINF:0,Sakura Card Captor Español cap 4 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 4
+https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2004%20en%20Espa%C3%B1ol%20latino.mp4
+#EXTINF:0,Sakura Card Captor Español cap 5 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 5
+https://dn600300.us.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2005%20en%20Espa%C3%B1ol%20latino.mp4
+#EXTINF:0,Sakura Card Captor Español cap 6 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 6
+https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2006%20en%20Espa%C3%B1ol%20latino.mp4
+#EXTINF:0,Sakura Card Captor Español cap 7 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 7
+https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2007%20en%20Espa%C3%B1ol%20latino.mp4
+#EXTINF:0,Sakura Card Captor Español cap 8 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 8
+https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2008%20en%20Espa%C3%B1ol%20latino.mp4
+#EXTINF:0,Sakura Card Captor Español cap 9 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 9
+https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2009%20en%20Espa%C3%B1ol%20latino.mp4
+#EXTINF:0,Sakura Card Captor Español cap 10 tvg-logo="https://i.postimg.cc/903wwpy3/images.jpg" group-title="FenecTV Movies",Sakura Card Captor Español cap 10
+https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2010%20en%20Espa%C3%B1ol%20latino.mp4
+#EXTINF:-1, E01 - Renacimiento
+https://archive.org/download/death-note-completo-ptbr/Death%20Note%20-%20S01E01%20-%20Rebirth%20-%20PT-BR.srt
+https://archive.org/download/death-note-complete-2006-2007/E01%20-%20Rebirth.mp4
 #EXTINF:-1 tvg-id="Metallica Master Of Puppets" tvg-logo="https://i.postimg.cc/xdVWTynF/ere.jpg" group-title="Music",Metallica Master Of Puppets HD
 https://ia903101.us.archive.org/17/items/metallica-master-of-puppets-manchester-england-june-18-2019-1080-p-hd/Metallica_%20Master%20of%20Puppets%20%28Manchester_%20England%20-%20June%2018_%202019%29%281080P_HD%29.mp4
 #EXTINF:-1 tvg-id="Nirvana Come As You Are" tvg-logo="https://i.postimg.cc/KzqqLnh4/ere.jpg" group-title="Music",Nirvana Come As You Are HD
@@ -764,29 +907,60 @@ https://ia800604.us.archive.org/1/items/aerosmith-dream-on-live-from-mexico-city
 https://ia801500.us.archive.org/18/items/moana-2026_202609/Moana%202026.mp4
 #EXTINF:-1 tvg-id="Esta entre nosotros" tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="PELICULAS HD",Estan entre Nosotros HD
 https://ia600605.us.archive.org/19/items/nd-entre-nosotros/ND%20entre%20nosotros.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:0,Atlantis El Imperio Perdido tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Atlantis El Imperio Perdido
+https://archive.org/download/mul-n-2-2004-latino/atlantis-el-imperio-perdido-2001-%5Blatino%5D.mp4
+#EXTINF:0,La Bella Durmiente tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",La Bella Durmiente
+http://bit.ly/La Bella Durmiente
+#EXTINF:0,Volver al Futuro tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Volver al Futuro
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:0,Bumblebee tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Bumblebee
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/545923.mkv
+#EXTINF:0,Búsqueda implacable tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Búsqueda implacable
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/545925.mkv
+#EXTINF:0,Búsqueda implacable 2 tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Búsqueda implacable 2
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/545926.mkv
+#EXTINF:0,Búsqueda implacable 3 tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Búsqueda implacable 3
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/545927.mkv
+#EXTINF:0,Contra Cara tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Contra Cara
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/545940.mkv
+#EXTINF:0,El Cuervo tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",El Cuervo 
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/545970.mkv
+#EXTINF:0,El Llanero Solitario tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",El Llanero Solitario 
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/545991.mkv
+#EXTINF:0,Jumanji Bienvenidos a la jungla tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Jumanji Bienvenidos a la jungla
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546071.mkv
+#EXTINF:0,Kong: La Isla Calavera tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Kong: La Isla Calavera
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546085.mkv
+#EXTINF:0,La Leyenda de Tarzán tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",La Leyenda de Tarzán
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546114.mkv
+#EXTINF:0,Liga de la Justicia tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Liga de la Justicia
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546135.mkv
+#EXTINF:0,Need For Speed: La Película tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Need For Speed: La Película
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546175.mkv
+#EXTINF:0,Piratas del Caribe: La Maldición del Perla Negra tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Piratas del Caribe: La Maldición del Perla Negra
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546198.mkv
+#EXTINF:0,Piratas del Caribe 2: El Cofre de la Muerte tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Piratas del Caribe 2: El Cofre de la Muerte
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546195.mkv
+#EXTINF:0,Piratas del Caribe 3: En el Fin del Mundo tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Piratas del Caribe 3: En el Fin del Mundo
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546196.mkv
+#EXTINF:0,Piratas del Caribe 4: Navegando Aqtvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Piratas del Caribe 4: Navegando Aguas Misteriosas
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546197.mkv
+#EXTINF:0,The equalizer  tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",The equalizer 
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546257.mkv
+#EXTINF:0,The Equalizer 2 tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",The Equalizer 2
+http://superxlatino.com:8880/movie/Daniel/9dMvRgg3fbn5/546258.mkv
+#EXTINF:0,Depredador Tierra Salvaje tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Depredador Tierra Salvaje
+https://archive.org/download/ver-depredador-tierras-salvajes-2025-online-gratis-en-espanol-ver-peliculas-ultra-f/Ver_Depredador__Tierras_Salvajes_%282025%29_Online_Gratis_en_Espa%C3%B1ol_-_VerPeliculasUltra_f_.mp4
+#EXTINF:0,Frankenstein 2025 tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Frankenstein 2025
+https://archive.org/download/ver-frankenstein-2025-online-gratis-en-espanol-ver-peliculas-ultra-f/Ver_Frankenstein_%282025%29_Online_Gratis_en_Espa%C3%B1ol_-_VerPeliculasUltra_f_.ia.mp4
+#EXTINF:0,Five Nights at Freddys 2. tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Five Nights at Freddys 2
+https://archive.org/download/ver-five-nights-at-freddys-2-2025-online-gratis-en-espanol-ver-peliculas-ultra/Ver_Five_Nights_At_Freddy%E2%80%99s_2_%282025%29_Online_Gratis_en_Espa%C3%B1ol_-_VerPeliculasUltra.ia.mp4
+#EXTINF:0,DBZ el poder invencible tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",DBZ el poder invencible
+https://archive.org/download/dbz-08-el-poder-invencible-bluray-full-hd-1080p/DBZ%2008%20-%20El%20Poder%20Invencible%20Bluray%20FullHD%201080p.mp4
+#EXTINF:0,DBZ Broly tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",DBZ Broly
+https://archive.org/download/kratosloquendero/Dragon%20Ball%20Super%20-%20Broly.mp4
+#EXTINF:0,Los Simpson tvg-logo="https://i.postimg.cc/DWN9D6Cm/fenectv-movies.jpg" group-title="FenecTV Movies",Los Simpson 
+https://archive.org/download/kratosloquendero/Los%20Simpson%20-%20La%20pelicula.mp4
 
 
 
