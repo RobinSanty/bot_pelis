@@ -7,3 +7,19 @@ https://canal22mex.cdn.nuevo.lat/hls/live/playlist.m3u8
 https://television.congreso.gob.mx/vod/live.m3u8
 #EXTINF:-1 tvg-id="Once" tvg-logo="" group-title="Publicos", Once TV
 https://once-tv-live.s3.amazonaws.com/once/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/radio.png" group-title="Radio Publica MX", Radio Educacion 1060 AM
+https://stream.radioeducacion.edu.mx:8000/1060am
+#EXTINF:-1 group-title="Radio Publica MX", Radio UNAM 96.1
+https://unam.stream:8000/radio_unam
+#EXTINF:-1 group-title="Radio Publica MX", IMER - Reactor 105.7
+https://stream.imer.mx:8000/reactor
+#EXTINF:-1 group-title="Radio Publica MX", Radio Ciudadana
+https://stream.imer.mx:8000/ciudadana
+#EXTINF:-1 group-title="Sin Derechos - Musica Libre", SomaFM - Groove Salad
+https://ice2.somafm.com/groovesalad-128-mp3
+#EXTINF:-1 group-title="Sin Derechos - Musica Libre", Free Music Archive
+https://stream.freemusicarchive.org:8000/fma
+#EXTINF:-1 group-title="Sin Derechos - Musica Libre", Radio Paradise
+https://stream.radioparadise.com/mp3-128
+#EXTINF:-1 group-title="Sin Derechos - Clasica", Musopen Clasica
+https://musopen.org:8000/stream
