@@ -1,128 +1,136 @@
 #EXTM3U
-# TV PUBLICA MX - 10 CANALES
-#EXTINF:-1 tvg-id="Canal14.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_Catorce_logo.png" group-title="TV Publica MX", Canal 14
+# 01. TELEVISION PUBLICA MX - 10 CANALES
+#EXTINF:-1 tvg-id="Canal14.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_Catorce_logo.png" group-title="01. Television Publica MX", Canal 14
 https://canal-catorce-live.s3.amazonaws.com/catorce/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal22.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal_22_logo.png" group-title="TV Publica MX", Canal 22
+#EXTINF:-1 tvg-id="Canal22.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal_22_logo.png" group-title="01. Television Publica MX", Canal 22
 https://canal22mex.cdn.nuevo.lat/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Once11.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Canal_Once_logo.png" group-title="TV Publica MX", Once TV 11.1
+#EXTINF:-1 tvg-id="Once11.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Canal_Once_logo.png" group-title="01. Television Publica MX", Once TV 11.1
 https://once-tv-live.s3.amazonaws.com/once/playlist.m3u8
-#EXTINF:-1 tvg-id="OnceNinos.mx" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="TV Publica MX", Once Niñas y Niños 11.2
+#EXTINF:-1 tvg-id="OnceNinos.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Canal_Once_logo.png" group-title="01. Television Publica MX", Once Ninas y Ninos 11.2
 https://once-ninos.s3.amazonaws.com/ninos/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/TV_UNAM_logo.png" group-title="TV Publica MX", TV UNAM
+#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/TV_UNAM_logo.png" group-title="01. Television Publica MX", TV UNAM
 https://unam-live.s3.amazonaws.com/unam/playlist.m3u8
-#EXTINF:-1 tvg-id="IngenioTV.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ingenio_TV_logo.png" group-title="TV Publica MX", Ingenio TV
+#EXTINF:-1 tvg-id="IngenioTV.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ingenio_TV_logo.png" group-title="01. Television Publica MX", Ingenio TV
 https://ingenio-tv-live.s3.amazonaws.com/ingenio/playlist.m3u8
-#EXTINF:-1 tvg-id="Congreso.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Canal_del_Congreso_Mexico.png" group-title="TV Publica MX", Canal del Congreso
+#EXTINF:-1 tvg-id="Congreso.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Canal_del_Congreso_Mexico.png" group-title="01. Television Publica MX", Canal del Congreso
 https://television.congreso.gob.mx/vod/live.m3u8
-#EXTINF:-1 tvg-id="Judicial.mx" tvg-logo="https://i.imgur.com/radio.png" group-title="TV Publica MX", Canal Judicial
+#EXTINF:-1 tvg-id="Judicial.mx" tvg-logo="https://i.imgur.com/radio.png" group-title="01. Television Publica MX", Canal Judicial
 https://canal-judicial-live.s3.amazonaws.com/judicial/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal28NL.mx" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="TV Publica MX", Canal 28
+#EXTINF:-1 tvg-id="Canal28NL.mx" tvg-logo="https://i.imgur.com/8Km9tLL.png" group-title="01. Television Publica MX", Canal 28
 https://stream.nuevoleon.gob.mx:8000/canal28
-#EXTINF:-1 tvg-id="Mexiquense.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Mexiquense_TV_logo.png" group-title="TV Publica MX", Mexiquense TV
+#EXTINF:-1 tvg-id="Mexiquense.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Mexiquense_TV_logo.png" group-title="01. Television Publica MX", Mexiquense TV
 https://mexiquense-live.s3.amazonaws.com/mexiquense/playlist.m3u8
 
-# TV INTERNACIONAL GRATIS - 7 CANALES
-#EXTINF:-1 tvg-id="NASA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="TV Internacional Gratis", NASA TV
+# 02. TV INTERNACIONAL - 7 CANALES
+#EXTINF:-1 tvg-id="NASA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="02. TV Internacional", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-id="NASAISS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="TV Internacional Gratis", NASA ISS
+#EXTINF:-1 tvg-id="NASAISS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="02. TV Internacional", NASA ISS
 https://nasa.akamaihd.net/hls/live/1/nasa/master.m3u8
-#EXTINF:-1 tvg-id="DW.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_logo.svg" group-title="TV Internacional Gratis", DW Español
+#EXTINF:-1 tvg-id="DW.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_logo.svg" group-title="02. TV Internacional", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_24_logo.svg" group-title="TV Internacional Gratis", France 24 Español
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_24_logo.svg" group-title="02. TV Internacional", France 24 Español
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="Euronews.eu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Euronews_Logo.svg" group-title="TV Internacional Gratis", Euronews Español
+#EXTINF:-1 tvg-id="Euronews.eu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Euronews_Logo.svg" group-title="02. TV Internacional", Euronews Español
 https://euronews-euronews-spanish-1.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NHK.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/NHK_World_Logo.svg" group-title="TV Internacional Gratis", NHK World Japan
+#EXTINF:-1 tvg-id="NHK.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/NHK_World_Logo.svg" group-title="02. TV Internacional", NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Al_Jazeera_English_logo.svg" group-title="TV Internacional Gratis", Al Jazeera English
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Al_Jazeera_English_logo.svg" group-title="02. TV Internacional", Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-# RADIO PUBLICA MX - 7 RADIOS
-#EXTINF:-1 tvg-id="RadioEducacion.mx" tvg-logo="https://i.imgur.com/radio.png" group-title="Radio Publica MX", Radio Educacion 1060 AM
+# 03. RADIO PUBLICA - 7 ESTACIONES
+#EXTINF:-1 tvg-id="RadioEducacion.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Radio_icon.svg" group-title="03. Radio Publica", Radio Educacion 1060 AM
 https://stream.radioeducacion.edu.mx:8000/1060am
-#EXTINF:-1 tvg-id="RadioUNAM.mx" tvg-logo="https://i.imgur.com/radio.png" group-title="Radio Publica MX", Radio UNAM 96.1 FM
+#EXTINF:-1 tvg-id="RadioUNAM.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Radio_icon.svg" group-title="03. Radio Publica", Radio UNAM 96.1 FM
 https://unam.stream:8000/radio_unam
-#EXTINF:-1 tvg-id="Reactor.mx" tvg-logo="https://i.imgur.com/radio.png" group-title="Radio Publica MX", Reactor 105.7
+#EXTINF:-1 tvg-id="Reactor.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Radio_icon.svg" group-title="03. Radio Publica", Reactor 105.7
 https://stream.imer.mx:8000/reactor
-#EXTINF:-1 tvg-id="Opus.mx" tvg-logo="https://i.imgur.com/radio.png" group-title="Radio Publica MX", Opus 94.5
+#EXTINF:-1 tvg-id="Opus.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Radio_icon.svg" group-title="03. Radio Publica", Opus 94.5
 https://stream.imer.mx:8000/opus
-#EXTINF:-1 tvg-id="Ciudadana.mx" tvg-logo="https://i.imgur.com/radio.png" group-title="Radio Publica MX", Radio Ciudadana
+#EXTINF:-1 tvg-id="Ciudadana.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Radio_icon.svg" group-title="03. Radio Publica", Radio Ciudadana
 https://stream.imer.mx:8000/ciudadana
-#EXTINF:-1 tvg-id="RadioNL.mx" tvg-logo="https://i.imgur.com/radio.png" group-title="Radio Publica MX", Radio Nuevo Leon 102.1
+#EXTINF:-1 tvg-id="RadioNL.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Radio_icon.svg" group-title="03. Radio Publica", Radio Nuevo Leon 102.1
 https://stream.imer.mx:8000/radionl
-#EXTINF:-1 tvg-id="Horizonte.mx" tvg-logo="https://i.imgur.com/radio.png" group-title="Radio Publica MX", Horizonte Jazz
+#EXTINF:-1 tvg-id="Horizonte.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Radio_icon.svg" group-title="03. Radio Publica", Horizonte Jazz
 https://stream.imer.mx:8000/horizonte
 
-# MUSICA LIBRE - 5 CANALES
-#EXTINF:-1 tvg-id="GrooveSalad.cc" tvg-logo="https://i.imgur.com/music.png" group-title="Musica Libre", Groove Salad CC
+# 04. MUSICA LIBRE - 5 CANALES
+#EXTINF:-1 tvg-id="GrooveSalad.cc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Radio_icon.svg" group-title="04. Musica Libre", Groove Salad CC
 https://ice2.somafm.com/groovesalad-128-mp3
-#EXTINF:-1 tvg-id="Lush.cc" tvg-logo="https://i.imgur.com/music.png" group-title="Musica Libre", SomaFM Lush CC
+#EXTINF:-1 tvg-id="Lush.cc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Radio_icon.svg" group-title="04. Musica Libre", SomaFM Lush CC
 https://ice2.somafm.com/lush-128-mp3
-#EXTINF:-1 tvg-id="FMA.cc" tvg-logo="https://i.imgur.com/music.png" group-title="Musica Libre", Free Music Archive
+#EXTINF:-1 tvg-id="FMA.cc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Radio_icon.svg" group-title="04. Musica Libre", Free Music Archive
 https://stream.freemusicarchive.org:8000/fma
-#EXTINF:-1 tvg-id="Musopen.org" tvg-logo="https://i.imgur.com/music.png" group-title="Musica Libre", Musopen Clasica
+#EXTINF:-1 tvg-id="Musopen.org" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Radio_icon.svg" group-title="04. Musica Libre", Musopen Clasica
 https://musopen.org:8000/stream
-#EXTINF:-1 tvg-id="Jamendo.cc" tvg-logo="https://i.imgur.com/music.png" group-title="Musica Libre", Jamendo Lounge CC
+#EXTINF:-1 tvg-id="Jamendo.cc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Radio_icon.svg" group-title="04. Musica Libre", Jamendo Lounge CC
 https://stream.jamendo.com/jamendo-lounge-128-mp3
 
-# PELICULAS GRATIS - 5 PELIS
-#EXTINF:-1 tvg-id="NightLivingDead.us" tvg-logo="https://i.imgur.com/movie.png" group-title="Peliculas Gratis", La Noche de los Muertos Vivientes 1968
+# 05. CINE CLASICO - 13 PELICULAS DOMINIO PUBLICO
+#EXTINF:-1 tvg-id="NightLivingDead.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Film_reel.svg" group-title="05. Cine Clasico Dominio Publico", La Noche de los Muertos Vivientes 1968
 https://archive.org/download/night_of_the_living_dead/night_of_the_living_dead_512kb.mp4
-#EXTINF:-1 tvg-id="Popeye.us" tvg-logo="https://i.imgur.com/movie.png" group-title="Peliculas Gratis", Popeye 1933
+#EXTINF:-1 tvg-id="Popeye.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Film_reel.svg" group-title="05. Cine Clasico Dominio Publico", Popeye 1933
 https://archive.org/download/popeye_the_sailor_meets_sindbad_the_sailor/Popeye_the_Sailor_Meets_Sindbad_the_Sailor_512kb.mp4
-#EXTINF:-1 tvg-id="LittlePrincess.us" tvg-logo="https://i.imgur.com/movie.png" group-title="Peliculas Gratis", La Pequeña Princesa 1939
+#EXTINF:-1 tvg-id="LittlePrincess.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Film_reel.svg" group-title="05. Cine Clasico Dominio Publico", La Pequeña Princesa 1939
 https://archive.org/download/little_princess_1939_512kb.mp4
-#EXTINF:-1 tvg-id="ReeferMadness.us" tvg-logo="https://i.imgur.com/movie.png" group-title="Peliculas Gratis", Reefer Madness 1936
+#EXTINF:-1 tvg-id="ReeferMadness.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Film_reel.svg" group-title="05. Cine Clasico Dominio Publico", Reefer Madness 1936
 https://archive.org/download/reefer_madness/reefer_madness_512kb.mp4
-#EXTINF:-1 tvg-id="Plan9.us" tvg-logo="https://i.imgur.com/movie.png" group-title="Peliculas Gratis", Plan 9 From Outer Space 1959
+#EXTINF:-1 tvg-id="Plan9.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Film_reel.svg" group-title="05. Cine Clasico Dominio Publico", Plan 9 From Outer Space 1959
 https://archive.org/download/plan_9_from_outer_space/plan_9_from_outer_space_512kb.mp4
-#EXTINF:-1 tvg-id="Chaplin1921.us" tvg-logo="https://i.imgur.com/movie.png" group-title="Peliculas Gratis", Chaplin - The Kid 1921 - Dominio Publico
+#EXTINF:-1 tvg-id="Chaplin1921.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Film_reel.svg" group-title="05. Cine Clasico Dominio Publico", Chaplin - The Kid 1921
 https://archive.org/download/the_kid_1921/the_kid_1921_512kb.mp4
-#EXTINF:-1 tvg-id="Nosferatu1922.de" tvg-logo="https://i.imgur.com/movie.png" group-title="Peliculas Gratis", Nosferatu 1922 - Dominio Publico
+#EXTINF:-1 tvg-id="Nosferatu1922.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Film_reel.svg" group-title="05. Cine Clasico Dominio Publico", Nosferatu 1922
 https://archive.org/download/Nosferatu1922/Nosferatu1922_512kb.mp4
-#EXTINF:-1 tvg-id="Sherlock1924.us" tvg-logo="https://i.imgur.com/movie.png" group-title="Peliculas Gratis", Sherlock Holmes 1924 - Dominio Publico
+#EXTINF:-1 tvg-id="Sherlock1924.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Film_reel.svg" group-title="05. Cine Clasico Dominio Publico", Sherlock Holmes 1924
 https://archive.org/download/sherlock_holmes_1924/sherlock_holmes_1924_512kb.mp4
-#EXTINF:-1 tvg-id="NightLivingDead1968.us" tvg-logo="https://i.imgur.com/movie.png" group-title="Peliculas Gratis", Night of the Living Dead 1968 Color - Dominio Publico
+#EXTINF:-1 tvg-id="NightLivingDead1968.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Film_reel.svg" group-title="05. Cine Clasico Dominio Publico", Night of the Living Dead Color
 https://archive.org/download/night_of_the_living_dead/night_of_the_living_dead_color.mp4
+#EXTINF:-1 tvg-id="TrenFantasma1926.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Film_reel.svg" group-title="05. Cine Clasico Dominio Publico", El Tren Fantasma 1926 - Mexicano
+https://archive.org/download/el_tren_fantasma_1926/el_tren_fantasma_1926_512kb.mp4
+#EXTINF:-1 tvg-id="Tepeyac1917.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Film_reel.svg" group-title="05. Cine Clasico Dominio Publico", Tepeyac 1917 - Mexicano
+https://archive.org/download/tepeyac_1917/tepeyac_1917_512kb.mp4
+#EXTINF:-1 tvg-id="PunoHierro1927.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Film_reel.svg" group-title="05. Cine Clasico Dominio Publico", El Puño de Hierro 1927 - Mexicano
+https://archive.org/download/el_puno_de_hierro_1927/el_puno_de_hierro_1927_512kb.mp4
+#EXTINF:-1 tvg-id="VamonosPancho1935.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Film_reel.svg" group-title="05. Cine Clasico Dominio Publico", Vamonos con Pancho Villa 1935
+https://archive.org/download/vamonos_con_pancho_villa/vamonos_con_pancho_villa_512kb.mp4
 
-# WEBCAMS GRATIS
-#EXTINF:-1 tvg-id="Popocatepetl.mx" tvg-logo="https://i.imgur.com/webcam.png" group-title="Webcams Gratis", Volcan Popocatepetl
+# 06. WEBCAMS EN VIVO - 1 CAMARA
+#EXTINF:-1 tvg-id="Popocatepetl.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="06. Webcams en Vivo", Volcan Popocatepetl
 https://webcam.cenapred.unam.mx/live/live.m3u8
 
-# CULTURA GRATIS - 3
-#EXTINF:-1 tvg-id="Smithsonian.us" tvg-logo="https://i.imgur.com/culture.png" group-title="Cultura Gratis", Smithsonian Earth
+# 07. CULTURA Y DOCUMENTALES - 3 CANALES
+#EXTINF:-1 tvg-id="Smithsonian.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Film_reel.svg" group-title="07. Cultura y Documentales", Smithsonian Earth
 https://smithsonian-earth.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TED.us" tvg-logo="https://i.imgur.com/culture.png" group-title="Cultura Gratis", TED Talks
+#EXTINF:-1 tvg-id="TED.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Film_reel.svg" group-title="07. Cultura y Documentales", TED Talks
 https://ted-talks.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DocuBox.eu" tvg-logo="https://i.imgur.com/culture.png" group-title="Cultura Gratis", DocuBox
+#EXTINF:-1 tvg-id="DocuBox.eu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Film_reel.svg" group-title="07. Cultura y Documentales", DocuBox
 https://docubox.samsung.wurl.tv/playlist.m3u8
 
-# NATURALEZA GRATIS - 2
-#EXTINF:-1 tvg-id="NatureTime.eu" tvg-logo="https://i.imgur.com/nature.png" group-title="Naturaleza Gratis", NatureTime
+# 08. NATURALEZA - 2 CANALES
+#EXTINF:-1 tvg-id="NatureTime.eu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Film_reel.svg" group-title="08. Naturaleza", NatureTime
 https://naturetime.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WildEarth.com" tvg-logo="https://i.imgur.com/nature.png" group-title="Naturaleza Gratis", Wild Earth
+#EXTINF:-1 tvg-id="WildEarth.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Film_reel.svg" group-title="08. Naturaleza", Wild Earth
 https://wild-earth.samsung.wurl.tv/playlist.m3u8
 
-# CIENCIA GRATIS - 2
-#EXTINF:-1 tvg-id="NASAExploration.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="Ciencia Gratis", NASA Documentales
+# 09. CIENCIA Y ESPACIO - 2 CANALES
+#EXTINF:-1 tvg-id="NASAExploration.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="09. Ciencia y Espacio", NASA Documentales
 https://nasa-documentary.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SpaceTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="Ciencia Gratis", Space TV
+#EXTINF:-1 tvg-id="SpaceTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="09. Ciencia y Espacio", Space TV
 https://space-tv.samsung.wurl.tv/playlist.m3u8
 
-# GAMER GRATIS - 3
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.imgur.com/gamer.png" group-title="Gamer Gratis", Red Bull TV
+# 10. GAMER Y ESPORTS - 3 CANALES
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Film_reel.svg" group-title="10. Gamer y Esports", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="EsportsTV.eu" tvg-logo="https://i.imgur.com/gamer.png" group-title="Gamer Gratis", Esports TV
+#EXTINF:-1 tvg-id="EsportsTV.eu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Film_reel.svg" group-title="10. Gamer y Esports", Esports TV
 https://esports-tv.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Gametoon.eu" tvg-logo="https://i.imgur.com/gamer.png" group-title="Gamer Gratis", Gametoon
+#EXTINF:-1 tvg-id="Gametoon.eu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Film_reel.svg" group-title="10. Gamer y Esports", Gametoon
 https://gametoon.samsung.wurl.tv/playlist.m3u8
 
-# KIDS GRATIS - 2
-#EXTINF:-1 tvg-id="KidsFlix.us" tvg-logo="https://i.imgur.com/kids.png" group-title="Kids Gratis", KidsFlix
+# 11. KIDS - 2 CANALES
+#EXTINF:-1 tvg-id="KidsFlix.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Film_reel.svg" group-title="11. Kids", KidsFlix
 https://archive.org/download/popeye_color/popeye_color_512kb.mp4
-#EXTINF:-1 tvg-id="CartoonClassics.us" tvg-logo="https://i.imgur.com/kids.png" group-title="Kids Gratis", Cartoon Classics
+#EXTINF:-1 tvg-id="CartoonClassics.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Film_reel.svg" group-title="11. Kids", Cartoon Classics
 https://archive.org/download/betty_boop/boop_512kb.mp4
 
-# NOTICIAS GRATIS - 1
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-logo="https://i.imgur.com/news.png" group-title="Noticias Gratis", Bloomberg Quicktake
+# 12. NOTICIAS - 1 CANAL
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_24_logo.svg" group-title="12. Noticias", Bloomberg Quicktake
 https://bloomberg-quicktake.samsung.wurl.tv/playlist.m3u8
