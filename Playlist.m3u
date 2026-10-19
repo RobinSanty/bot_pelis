@@ -1,1 +1,9 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal14" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Publicos", Canal 14
+https://canal-catorce-live.s3.amazonaws.com/catorce/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal22" tvg-logo="" group-title="Publicos", Canal 22
+https://canal22mex.cdn.nuevo.lat/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Congreso" tvg-logo="" group-title="Publicos", Canal del Congreso
+https://television.congreso.gob.mx/vod/live.m3u8
+#EXTINF:-1 tvg-id="Once" tvg-logo="" group-title="Publicos", Once TV
+https://once-tv-live.s3.amazonaws.com/once/playlist.m3u8
