@@ -72,3 +72,24 @@ https://webcam.cenapred.unam.mx/live/live.m3u8
 https://africam.live/africam.m3u8
 #EXTINF:-1 group-title="Webcams y Ambiente Gratis", Lluvia y Bosque 24/7 - Sonido Libre
 https://icecast.radio/file.mp3
+
+#EXTINF:-1 tvg-logo="https://archive.org/images/notfound.png" group-title="Peliculas Gratis Dominio Publico", La Noche de los Muertos Vivientes 1968 - Terror Clasico
+https://archive.org/download/night_of_the_living_dead/night_of_the_living_dead_512kb.mp4
+#EXTINF:-1 group-title="Peliculas Gratis Dominio Publico", Popeye el Marino 1933 - Caricatura Dominio Publico
+https://archive.org/download/popeye_the_sailor_meets_sindbad_the_sailor/Popeye_the_Sailor_Meets_Sindbad_the_Sailor_512kb.mp4
+#EXTINF:-1 group-title="Peliculas Gratis Dominio Publico", Charley Chaplin - Tiempos Modernos Clip Libre
+https://archive.org/download/CC_1936_02_18_02_EdWynn/cc_1936_02_18_02_edwynn_512kb.mp4
+#EXTINF:-1 group-title="Peliculas Gratis Dominio Publico", La Pequeña Princesa 1939 - Dominio Publico
+https://archive.org/download/little_princess_1939/little_princess_1939_512kb.mp4
+#EXTINF:-1 group-title="Peliculas Gratis Dominio Publico", Reefer Madness 1936 - Culto Dominio Publico
+https://archive.org/download/reefer_madness/reefer_madness_512kb.mp4
+#EXTINF:-1 group-title="Peliculas Gratis Dominio Publico", Night of the Living Dead Color
+https://archive.org/download/night_of_the_living_dead/night_of_the_living_dead_color.mp4
+#EXTINF:-1 group-title="Peliculas Gratis Dominio Publico", Prelinger - Dibujos Animados 50s Publicos
+https://archive.org/download/prelinger_cartoon/Cartoon_512kb.mp4
+#EXTINF:-1 group-title="Peliculas Gratis Dominio Publico", Plan 9 From Outer Space 1959 - Sci-Fi Dominio Publico
+https://archive.org/download/plan_9_from_outer_space/plan_9_from_outer_space_512kb.mp4
+
+
+
+
