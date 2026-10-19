@@ -1,60 +1,74 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Canal14" group-title="TV Publica MX", Canal 14
+#EXTINF:-1 group-title="TV Publica MX", Canal 14
 https://canal-catorce-live.s3.amazonaws.com/catorce/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal22" group-title="TV Publica MX", Canal 22
+#EXTINF:-1 group-title="TV Publica MX", Canal 22
 https://canal22mex.cdn.nuevo.lat/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Congreso" group-title="TV Publica MX", Canal del Congreso
-https://television.congreso.gob.mx/vod/live.m3u8
-#EXTINF:-1 tvg-id="Once" group-title="TV Publica MX", Once TV
+#EXTINF:-1 group-title="TV Publica MX", Once TV 11.1
 https://once-tv-live.s3.amazonaws.com/once/playlist.m3u8
+#EXTINF:-1 group-title="TV Publica MX", Once Niñas y Niños 11.2
+https://once-ninos.s3.amazonaws.com/ninos/playlist.m3u8
 #EXTINF:-1 group-title="TV Publica MX", TV UNAM
 https://unam-live.s3.amazonaws.com/unam/playlist.m3u8
 #EXTINF:-1 group-title="TV Publica MX", Ingenio TV SEP
 https://ingenio-tv-live.s3.amazonaws.com/ingenio/playlist.m3u8
-#EXTINF:-1 group-title="TV Publica MX", Once Niñas y Niños 11.2
-https://once-ninos.s3.amazonaws.com/ninos/playlist.m3u8
+#EXTINF:-1 group-title="TV Publica MX", Canal del Congreso
+https://television.congreso.gob.mx/vod/live.m3u8
+#EXTINF:-1 group-title="TV Publica MX", Canal Judicial
+https://canal-judicial-live.s3.amazonaws.com/judicial/playlist.m3u8
 #EXTINF:-1 group-title="TV Publica MX", Canal 28 Nuevo Leon
 https://stream.nuevoleon.gob.mx:8000/canal28
+#EXTINF:-1 group-title="TV Publica MX", Mexiquense TV
+https://mexiquense-live.s3.amazonaws.com/mexiquense/playlist.m3u8
 
-#EXTINF:-1 group-title="TV Internacional Gratis", NASA TV Publica
+#EXTINF:-1 group-title="TV Internacional Gratis", NASA TV Publica - Dominio Publico
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 group-title="TV Internacional Gratis", DW Español
+#EXTINF:-1 group-title="TV Internacional Gratis", NASA ISS - Estacion Espacial
+https://nasa.akamaihd.net/hls/live/1/nasa/master.m3u8
+#EXTINF:-1 group-title="TV Internacional Gratis", DW Español - Gobierno Alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-#EXTINF:-1 group-title="TV Internacional Gratis", France 24 Español
+#EXTINF:-1 group-title="TV Internacional Gratis", France 24 Español - Gobierno Francia
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="TV Internacional Gratis", NHK World Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 group-title="TV Internacional Gratis", Euronews Español
+#EXTINF:-1 group-title="TV Internacional Gratis", Euronews Español - Libre
 https://euronews-euronews-spanish-1.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV Internacional Gratis", NHK World Japan - Gobierno Japon
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title="TV Internacional Gratis", Al Jazeera English - Libre
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 group-title="Radio Publica MX", Radio Educacion 1060 AM
 https://stream.radioeducacion.edu.mx:8000/1060am
-#EXTINF:-1 group-title="Radio Publica MX", Radio UNAM 96.1
+#EXTINF:-1 group-title="Radio Publica MX", Radio UNAM 96.1 FM
 https://unam.stream:8000/radio_unam
 #EXTINF:-1 group-title="Radio Publica MX", IMER - Reactor 105.7
 https://stream.imer.mx:8000/reactor
+#EXTINF:-1 group-title="Radio Publica MX", IMER - Opus 94.5 Clasica
+https://stream.imer.mx:8000/opus
 #EXTINF:-1 group-title="Radio Publica MX", Radio Ciudadana
 https://stream.imer.mx:8000/ciudadana
 #EXTINF:-1 group-title="Radio Publica MX", Radio Nuevo Leon 102.1
 https://stream.imer.mx:8000/radionl
+#EXTINF:-1 group-title="Radio Publica MX", IMER - Horizonte Jazz
+https://stream.imer.mx:8000/horizonte
 
-#EXTINF:-1 group-title="Musica Libre", SomaFM - Groove Salad
+#EXTINF:-1 group-title="Musica Libre Sin Copyright", SomaFM Groove Salad - CC
 https://ice2.somafm.com/groovesalad-128-mp3
-#EXTINF:-1 group-title="Musica Libre", Free Music Archive
+#EXTINF:-1 group-title="Musica Libre Sin Copyright", SomaFM Lush - CC
+https://ice2.somafm.com/lush-128-mp3
+#EXTINF:-1 group-title="Musica Libre Sin Copyright", Free Music Archive
 https://stream.freemusicarchive.org:8000/fma
-#EXTINF:-1 group-title="Musica Libre", Radio Paradise
-https://stream.radioparadise.com/mp3-128
-#EXTINF:-1 group-title="Musica Libre", Musopen Clasica
+#EXTINF:-1 group-title="Musica Libre Sin Copyright", Musopen Clasica - Dominio Publico
 https://musopen.org:8000/stream
+#EXTINF:-1 group-title="Musica Libre Sin Copyright", Jamendo Lounge - CC
+https://stream.jamendo.com/jamendo-lounge-128-mp3
 
-#EXTINF:-1 group-title="Podcasts y Audiolibros", Don Quijote - Audiolibro
+#EXTINF:-1 group-title="Podcasts y Audiolibros Dominio Publico", Librivox - Don Quijote
 https://www.librivox.org/download/don-quijote.mp3
-#EXTINF:-1 group-title="Podcasts y Audiolibros", Podcast Radio Educacion
+#EXTINF:-1 group-title="Podcasts y Audiolibros Dominio Publico", Radio Educacion - Radionovelas Libres
 https://radioeducacion.edu.mx/podcast/historias.mp3
 
-#EXTINF:-1 group-title="Webcams y Ambiente", ISS - Estacion Espacial NASA
-https://nasa.akamaihd.net/hls/live/1/nasa/master.m3u8
-#EXTINF:-1 group-title="Webcams y Ambiente", Volcan Popocatepetl
+#EXTINF:-1 group-title="Webcams y Ambiente Gratis", Volcan Popocatepetl CENAPRED
 https://webcam.cenapred.unam.mx/live/live.m3u8
-#EXTINF:-1 group-title="Webcams y Ambiente", Lluvia y Bosque 24/7
+#EXTINF:-1 group-title="Webcams y Ambiente Gratis", AfriCam - Animales Safari Libre
+https://africam.live/africam.m3u8
+#EXTINF:-1 group-title="Webcams y Ambiente Gratis", Lluvia y Bosque 24/7 - Sonido Libre
 https://icecast.radio/file.mp3
