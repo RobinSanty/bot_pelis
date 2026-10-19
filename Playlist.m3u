@@ -80,3 +80,38 @@ https://archive.org/download/plan_9_from_outer_space/plan_9_from_outer_space_512
 # WEBCAMS Y AMBIENTE
 #EXTINF:-1 tvg-id="Popocatepetl.mx" tvg-name="Popocatepetl" group-title="Webcams Gratis", Volcan Popocatepetl CENAPRED
 https://webcam.cenapred.unam.mx/live/live.m3u8
+# CULTURA Y EDUCACION GRATIS - DOMINIO PUBLICO
+#EXTINF:-1 tvg-id="Smithsonian.us" group-title="Cultura Gratis", Smithsonian Earth - Documentales Libres
+https://smithsonian-earth.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TED.us" group-title="Cultura Gratis", TED Talks - Charlas Libres
+https://ted-talks.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DocuBox.eu" group-title="Cultura Gratis", DocuBox - Documentales Dominio Publico
+https://docubox.samsung.wurl.tv/playlist.m3u8
+
+# NATURALEZA Y CIENCIA GRATIS
+#EXTINF:-1 tvg-id="NatureTime.eu" group-title="Naturaleza Gratis", NatureTime - Animales 24/7 Libre
+https://naturetime.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.com" group-title="Naturaleza Gratis", Wild Earth - Safari Africa Libre
+https://wild-earth.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NASAExploration.us" group-title="Ciencia Gratis", NASA Documentales - Dominio Publico
+https://nasa-documentary.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SpaceTV.us" group-title="Ciencia Gratis", Space TV - Lanzamientos NASA
+https://space-tv.samsung.wurl.tv/playlist.m3u8
+
+# GAMER Y TECH GRATIS - SIN COPYRIGHT
+#EXTINF:-1 tvg-id="RedBullTV.at" group-title="Gamer Gratis", Red Bull TV - E-Sports y Gaming Libre
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="EsportsTV.eu" group-title="Gamer Gratis", Esports TV - Torneos Libres
+https://esports-tv.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Gametoon.eu" group-title="Gamer Gratis", Gametoon - Gameplays Libre
+https://gametoon.samsung.wurl.tv/playlist.m3u8
+
+# KIDS Y FAMILIA - DOMINIO PUBLICO
+#EXTINF:-1 tvg-id="KidsFlix.us" group-title="Kids Gratis", KidsFlix - Caricaturas Dominio Publico 1930s
+https://archive.org/download/popeye_color/popeye_color_512kb.mp4
+#EXTINF:-1 tvg-id="CartoonClassics.us" group-title="Kids Gratis", Cartoon Classics - Betty Boop Dominio Publico
+https://archive.org/download/betty_boop/boop_512kb.mp4
+
+# NOTICIAS TECH LIBRES
+#EXTINF:-1 tvg-id="Bloomberg.us" group-title="Noticias Gratis", Bloomberg Quicktake - Noticias Tech Libre
+https://bloomberg-quicktake.samsung.wurl.tv/playlist.m3u8
