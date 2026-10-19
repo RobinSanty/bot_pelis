@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Canal14" tvg-logo="https://i.imgur.com/placeholder.png" group-title="Publicos", Canal 14
+#EXTINF:-1 tvg-id="Canal14" tvg-logo="https://i.imgur.com/placeholder.png" group-title="TV Publica MX", Canal 14
 https://canal-catorce-live.s3.amazonaws.com/catorce/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal22" tvg-logo="" group-title="Publicos", Canal 22
+#EXTINF:-1 tvg-id="Canal22" tvg-logo="" group-title="TV Publica MX", Canal 22
 https://canal22mex.cdn.nuevo.lat/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Congreso" tvg-logo="" group-title="Publicos", Canal del Congreso
+#EXTINF:-1 tvg-id="Congreso" tvg-logo="" group-title="TV Publica MX", Canal del Congreso
 https://television.congreso.gob.mx/vod/live.m3u8
-#EXTINF:-1 tvg-id="Once" tvg-logo="" group-title="Publicos", Once TV
+#EXTINF:-1 tvg-id="Once" tvg-logo="" group-title="TV Publica MX", Once TV
 https://once-tv-live.s3.amazonaws.com/once/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/radio.png" group-title="Radio Publica MX", Radio Educacion 1060 AM
 https://stream.radioeducacion.edu.mx:8000/1060am
@@ -15,34 +15,23 @@ https://unam.stream:8000/radio_unam
 https://stream.imer.mx:8000/reactor
 #EXTINF:-1 group-title="Radio Publica MX", Radio Ciudadana
 https://stream.imer.mx:8000/ciudadana
-#EXTINF:-1 group-title="Sin Derechos - Musica Libre", SomaFM - Groove Salad
-https://ice2.somafm.com/groovesalad-128-mp3
-#EXTINF:-1 group-title="Sin Derechos - Musica Libre", Free Music Archive
-https://stream.freemusicarchive.org:8000/fma
-#EXTINF:-1 group-title="Sin Derechos - Musica Libre", Radio Paradise
-https://stream.radioparadise.com/mp3-128
-#EXTINF:-1 group-title="Sin Derechos - Clasica", Musopen Clasica
-https://musopen.org:8000/stream
-#EXTINF:-1 group-title="Gratis - Audiolibros", Don Quijote - Audiolibro
-https://librivox.org/don-quijote-1.m3u
-#EXTINF:-1 group-title="Gratis - Podcasts Publicos", Podcast Radio Educacion
-https://radioeducacion.edu.mx/podcast/historias.mp3
-#EXTINF:-1 tvg-id="NASA" group-title="Gratis - Internacional", NASA TV Publica
+#EXTINF:-1 group-title="TV Internacional Gratis", NASA TV Publica
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 group-title="Gratis - Internacional", Euronews Español
+#EXTINF:-1 group-title="TV Internacional Gratis", Euronews Español
 https://euronews-euronews-spanish-1.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Gratis - Webcams", Volcan Popocatepetl En Vivo
-https://webcam.cenapred.unam.mx/live.m3u8
-#EXTINF:-1 group-title="Gratis - Ambiente", Lluvia y Bosque 24/7
+#EXTINF:-1 group-title="Musica Libre", SomaFM - Groove Salad
+https://ice2.somafm.com/groovesalad-128-mp3
+#EXTINF:-1 group-title="Musica Libre", Free Music Archive
+https://stream.freemusicarchive.org:8000/fma
+#EXTINF:-1 group-title="Musica Libre", Radio Paradise
+https://stream.radioparadise.com/mp3-128
+#EXTINF:-1 group-title="Musica Libre", Musopen Clasica
+https://musopen.org:8000/stream
+#EXTINF:-1 group-title="Podcasts y Audiolibros", Don Quijote - Audiolibro
+https://librivox.org/don-quijote-1.m3u
+#EXTINF:-1 group-title="Podcasts y Audiolibros", Podcast Radio Educacion
+https://radioeducacion.edu.mx/podcast/historias.mp3
+#EXTINF:-1 group-title="Webcams y Ambiente", Volcan Popocatepetl En Vivo
+https://webcam.cenapred.unam.mx/live/m3u8
+#EXTINF:-1 group-title="Webcams y Ambiente", Lluvia y Bosque 24/7
 https://icecast.radio/file.mp3
-
-
-
-
-
-
-
-
-
-
-
