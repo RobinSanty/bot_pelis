@@ -1,95 +1,82 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV Publica MX", Canal 14
+# TV PUBLICA MX - 100% LEGAL MEXICO
+#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal 14" group-title="TV Publica MX", Canal 14
 https://canal-catorce-live.s3.amazonaws.com/catorce/playlist.m3u8
-#EXTINF:-1 group-title="TV Publica MX", Canal 22
+#EXTINF:-1 tvg-id="Canal22.mx" tvg-name="Canal 22" group-title="TV Publica MX", Canal 22
 https://canal22mex.cdn.nuevo.lat/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="TV Publica MX", Once TV 11.1
+#EXTINF:-1 tvg-id="Once11.mx" tvg-name="Once TV" group-title="TV Publica MX", Once TV 11.1
 https://once-tv-live.s3.amazonaws.com/once/playlist.m3u8
-#EXTINF:-1 group-title="TV Publica MX", Once Niñas y Niños 11.2
+#EXTINF:-1 tvg-id="OnceNinos.mx" tvg-name="Once Ninos" group-title="TV Publica MX", Once Niñas y Niños 11.2
 https://once-ninos.s3.amazonaws.com/ninos/playlist.m3u8
-#EXTINF:-1 group-title="TV Publica MX", TV UNAM
+#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" group-title="TV Publica MX", TV UNAM
 https://unam-live.s3.amazonaws.com/unam/playlist.m3u8
-#EXTINF:-1 group-title="TV Publica MX", Ingenio TV SEP
+#EXTINF:-1 tvg-id="IngenioTV.mx" tvg-name="Ingenio TV" group-title="TV Publica MX", Ingenio TV SEP
 https://ingenio-tv-live.s3.amazonaws.com/ingenio/playlist.m3u8
-#EXTINF:-1 group-title="TV Publica MX", Canal del Congreso
+#EXTINF:-1 tvg-id="Congreso.mx" tvg-name="Canal Congreso" group-title="TV Publica MX", Canal del Congreso
 https://television.congreso.gob.mx/vod/live.m3u8
-#EXTINF:-1 group-title="TV Publica MX", Canal Judicial
+#EXTINF:-1 tvg-id="Judicial.mx" tvg-name="Canal Judicial" group-title="TV Publica MX", Canal Judicial
 https://canal-judicial-live.s3.amazonaws.com/judicial/playlist.m3u8
-#EXTINF:-1 group-title="TV Publica MX", Canal 28 Nuevo Leon
+#EXTINF:-1 tvg-id="Canal28NL.mx" tvg-name="Canal 28 NL" group-title="TV Publica MX", Canal 28 Nuevo Leon
 https://stream.nuevoleon.gob.mx:8000/canal28
-#EXTINF:-1 group-title="TV Publica MX", Mexiquense TV
+#EXTINF:-1 tvg-id="Mexiquense.mx" tvg-name="Mexiquense TV" group-title="TV Publica MX", Mexiquense TV
 https://mexiquense-live.s3.amazonaws.com/mexiquense/playlist.m3u8
 
-#EXTINF:-1 group-title="TV Internacional Gratis", NASA TV Publica - Dominio Publico
+# TV INTERNACIONAL GRATIS - GOBIERNOS
+#EXTINF:-1 tvg-id="NASA.us" tvg-name="NASA TV" group-title="TV Internacional Gratis", NASA TV Publica
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 group-title="TV Internacional Gratis", NASA ISS - Estacion Espacial
+#EXTINF:-1 tvg-id="NASAISS.us" tvg-name="NASA ISS" group-title="TV Internacional Gratis", NASA ISS Estacion Espacial
 https://nasa.akamaihd.net/hls/live/1/nasa/master.m3u8
-#EXTINF:-1 group-title="TV Internacional Gratis", DW Español - Gobierno Alemania
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW Español" group-title="TV Internacional Gratis", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-#EXTINF:-1 group-title="TV Internacional Gratis", France 24 Español - Gobierno Francia
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" group-title="TV Internacional Gratis", France 24 Español
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:-1 group-title="TV Internacional Gratis", Euronews Español - Libre
+#EXTINF:-1 tvg-id="Euronews.eu" tvg-name="Euronews" group-title="TV Internacional Gratis", Euronews Español
 https://euronews-euronews-spanish-1.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TV Internacional Gratis", NHK World Japan - Gobierno Japon
+#EXTINF:-1 tvg-id="NHK.jp" tvg-name="NHK World" group-title="TV Internacional Gratis", NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 group-title="TV Internacional Gratis", Al Jazeera English - Libre
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera" group-title="TV Internacional Gratis", Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 group-title="Radio Publica MX", Radio Educacion 1060 AM
+# RADIO PUBLICA MX
+#EXTINF:-1 tvg-id="RadioEducacion.mx" tvg-name="Radio Educacion" group-title="Radio Publica MX", Radio Educacion 1060 AM
 https://stream.radioeducacion.edu.mx:8000/1060am
-#EXTINF:-1 group-title="Radio Publica MX", Radio UNAM 96.1 FM
+#EXTINF:-1 tvg-id="RadioUNAM.mx" tvg-name="Radio UNAM" group-title="Radio Publica MX", Radio UNAM 96.1 FM
 https://unam.stream:8000/radio_unam
-#EXTINF:-1 group-title="Radio Publica MX", IMER - Reactor 105.7
+#EXTINF:-1 tvg-id="Reactor.mx" tvg-name="Reactor" group-title="Radio Publica MX", IMER Reactor 105.7
 https://stream.imer.mx:8000/reactor
-#EXTINF:-1 group-title="Radio Publica MX", IMER - Opus 94.5 Clasica
+#EXTINF:-1 tvg-id="Opus.mx" tvg-name="Opus" group-title="Radio Publica MX", IMER Opus 94.5 Clasica
 https://stream.imer.mx:8000/opus
-#EXTINF:-1 group-title="Radio Publica MX", Radio Ciudadana
+#EXTINF:-1 tvg-id="Ciudadana.mx" tvg-name="Radio Ciudadana" group-title="Radio Publica MX", Radio Ciudadana
 https://stream.imer.mx:8000/ciudadana
-#EXTINF:-1 group-title="Radio Publica MX", Radio Nuevo Leon 102.1
+#EXTINF:-1 tvg-id="RadioNL.mx" tvg-name="Radio Nuevo Leon" group-title="Radio Publica MX", Radio Nuevo Leon 102.1
 https://stream.imer.mx:8000/radionl
-#EXTINF:-1 group-title="Radio Publica MX", IMER - Horizonte Jazz
+#EXTINF:-1 tvg-id="Horizonte.mx" tvg-name="Horizonte" group-title="Radio Publica MX", IMER Horizonte Jazz
 https://stream.imer.mx:8000/horizonte
 
-#EXTINF:-1 group-title="Musica Libre Sin Copyright", SomaFM Groove Salad - CC
+# MUSICA LIBRE SIN COPYRIGHT
+#EXTINF:-1 tvg-id="GrooveSalad.cc" tvg-name="Groove Salad" group-title="Musica Libre", SomaFM Groove Salad CC
 https://ice2.somafm.com/groovesalad-128-mp3
-#EXTINF:-1 group-title="Musica Libre Sin Copyright", SomaFM Lush - CC
+#EXTINF:-1 tvg-id="Lush.cc" tvg-name="Lush" group-title="Musica Libre", SomaFM Lush CC
 https://ice2.somafm.com/lush-128-mp3
-#EXTINF:-1 group-title="Musica Libre Sin Copyright", Free Music Archive
+#EXTINF:-1 tvg-id="FMA.cc" tvg-name="FMA" group-title="Musica Libre", Free Music Archive
 https://stream.freemusicarchive.org:8000/fma
-#EXTINF:-1 group-title="Musica Libre Sin Copyright", Musopen Clasica - Dominio Publico
+#EXTINF:-1 tvg-id="Musopen.org" tvg-name="Musopen" group-title="Musica Libre", Musopen Clasica Dominio Publico
 https://musopen.org:8000/stream
-#EXTINF:-1 group-title="Musica Libre Sin Copyright", Jamendo Lounge - CC
+#EXTINF:-1 tvg-id="Jamendo.cc" tvg-name="Jamendo Lounge" group-title="Musica Libre", Jamendo Lounge CC
 https://stream.jamendo.com/jamendo-lounge-128-mp3
 
-#EXTINF:-1 group-title="Podcasts y Audiolibros Dominio Publico", Librivox - Don Quijote
-https://www.librivox.org/download/don-quijote.mp3
-#EXTINF:-1 group-title="Podcasts y Audiolibros Dominio Publico", Radio Educacion - Radionovelas Libres
-https://radioeducacion.edu.mx/podcast/historias.mp3
-
-#EXTINF:-1 group-title="Webcams y Ambiente Gratis", Volcan Popocatepetl CENAPRED
-https://webcam.cenapred.unam.mx/live/live.m3u8
-#EXTINF:-1 group-title="Webcams y Ambiente Gratis", AfriCam - Animales Safari Libre
-https://africam.live/africam.m3u8
-#EXTINF:-1 group-title="Webcams y Ambiente Gratis", Lluvia y Bosque 24/7 - Sonido Libre
-https://icecast.radio/file.mp3
-
-#EXTINF:-1 tvg-logo="https://archive.org/images/notfound.png" group-title="Peliculas Gratis Dominio Publico", La Noche de los Muertos Vivientes 1968 - Terror Clasico
+# PELICULAS GRATIS DOMINIO PUBLICO
+#EXTINF:-1 tvg-id="NightLivingDead.us" tvg-name="Night of the Living Dead" group-title="Peliculas Gratis", La Noche de los Muertos Vivientes 1968
 https://archive.org/download/night_of_the_living_dead/night_of_the_living_dead_512kb.mp4
-#EXTINF:-1 group-title="Peliculas Gratis Dominio Publico", Popeye el Marino 1933 - Caricatura Dominio Publico
+#EXTINF:-1 tvg-id="Popeye.us" tvg-name="Popeye" group-title="Peliculas Gratis", Popeye el Marino 1933
 https://archive.org/download/popeye_the_sailor_meets_sindbad_the_sailor/Popeye_the_Sailor_Meets_Sindbad_the_Sailor_512kb.mp4
-#EXTINF:-1 group-title="Peliculas Gratis Dominio Publico", Charley Chaplin - Tiempos Modernos Clip Libre
-https://archive.org/download/CC_1936_02_18_02_EdWynn/cc_1936_02_18_02_edwynn_512kb.mp4
-#EXTINF:-1 group-title="Peliculas Gratis Dominio Publico", La Pequeña Princesa 1939 - Dominio Publico
+#EXTINF:-1 tvg-id="LittlePrincess.us" tvg-name="Little Princess" group-title="Peliculas Gratis", La Pequeña Princesa 1939
 https://archive.org/download/little_princess_1939/little_princess_1939_512kb.mp4
-#EXTINF:-1 group-title="Peliculas Gratis Dominio Publico", Reefer Madness 1936 - Culto Dominio Publico
+#EXTINF:-1 tvg-id="ReeferMadness.us" tvg-name="Reefer Madness" group-title="Peliculas Gratis", Reefer Madness 1936
 https://archive.org/download/reefer_madness/reefer_madness_512kb.mp4
-#EXTINF:-1 group-title="Peliculas Gratis Dominio Publico", Night of the Living Dead Color
-https://archive.org/download/night_of_the_living_dead/night_of_the_living_dead_color.mp4
-#EXTINF:-1 group-title="Peliculas Gratis Dominio Publico", Prelinger - Dibujos Animados 50s Publicos
-https://archive.org/download/prelinger_cartoon/Cartoon_512kb.mp4
-#EXTINF:-1 group-title="Peliculas Gratis Dominio Publico", Plan 9 From Outer Space 1959 - Sci-Fi Dominio Publico
+#EXTINF:-1 tvg-id="Plan9.us" tvg-name="Plan 9" group-title="Peliculas Gratis", Plan 9 From Outer Space 1959
 https://archive.org/download/plan_9_from_outer_space/plan_9_from_outer_space_512kb.mp4
 
-
-
-
+# WEBCAMS Y AMBIENTE
+#EXTINF:-1 tvg-id="Popocatepetl.mx" tvg-name="Popocatepetl" group-title="Webcams Gratis", Volcan Popocatepetl CENAPRED
+https://webcam.cenapred.unam.mx/live/live.m3u8
