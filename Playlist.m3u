@@ -1,13 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Canal14" tvg-logo="https://i.imgur.com/placeholder.png" group-title="TV Publica MX", Canal 14
+#EXTINF:-1 tvg-id="Canal14" group-title="TV Publica MX", Canal 14
 https://canal-catorce-live.s3.amazonaws.com/catorce/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal22" tvg-logo="" group-title="TV Publica MX", Canal 22
+#EXTINF:-1 tvg-id="Canal22" group-title="TV Publica MX", Canal 22
 https://canal22mex.cdn.nuevo.lat/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Congreso" tvg-logo="" group-title="TV Publica MX", Canal del Congreso
+#EXTINF:-1 tvg-id="Congreso" group-title="TV Publica MX", Canal del Congreso
 https://television.congreso.gob.mx/vod/live.m3u8
-#EXTINF:-1 tvg-id="Once" tvg-logo="" group-title="TV Publica MX", Once TV
+#EXTINF:-1 tvg-id="Once" group-title="TV Publica MX", Once TV
 https://once-tv-live.s3.amazonaws.com/once/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/radio.png" group-title="Radio Publica MX", Radio Educacion 1060 AM
+#EXTINF:-1 group-title="TV Publica MX", TV UNAM
+https://unam-live.s3.amazonaws.com/unam/playlist.m3u8
+#EXTINF:-1 group-title="TV Publica MX", Ingenio TV SEP
+https://ingenio-tv-live.s3.amazonaws.com/ingenio/playlist.m3u8
+#EXTINF:-1 group-title="TV Publica MX", Once Niñas y Niños 11.2
+https://once-ninos.s3.amazonaws.com/ninos/playlist.m3u8
+#EXTINF:-1 group-title="TV Publica MX", Canal 28 Nuevo Leon
+https://stream.nuevoleon.gob.mx:8000/canal28
+
+#EXTINF:-1 group-title="TV Internacional Gratis", NASA TV Publica
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="TV Internacional Gratis", DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:-1 group-title="TV Internacional Gratis", France 24 Español
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="TV Internacional Gratis", NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title="TV Internacional Gratis", Euronews Español
+https://euronews-euronews-spanish-1.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio Publica MX", Radio Educacion 1060 AM
 https://stream.radioeducacion.edu.mx:8000/1060am
 #EXTINF:-1 group-title="Radio Publica MX", Radio UNAM 96.1
 https://unam.stream:8000/radio_unam
@@ -15,10 +35,9 @@ https://unam.stream:8000/radio_unam
 https://stream.imer.mx:8000/reactor
 #EXTINF:-1 group-title="Radio Publica MX", Radio Ciudadana
 https://stream.imer.mx:8000/ciudadana
-#EXTINF:-1 group-title="TV Internacional Gratis", NASA TV Publica
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 group-title="TV Internacional Gratis", Euronews Español
-https://euronews-euronews-spanish-1.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Radio Publica MX", Radio Nuevo Leon 102.1
+https://stream.imer.mx:8000/radionl
+
 #EXTINF:-1 group-title="Musica Libre", SomaFM - Groove Salad
 https://ice2.somafm.com/groovesalad-128-mp3
 #EXTINF:-1 group-title="Musica Libre", Free Music Archive
@@ -27,13 +46,15 @@ https://stream.freemusicarchive.org:8000/fma
 https://stream.radioparadise.com/mp3-128
 #EXTINF:-1 group-title="Musica Libre", Musopen Clasica
 https://musopen.org:8000/stream
+
 #EXTINF:-1 group-title="Podcasts y Audiolibros", Don Quijote - Audiolibro
-https://librivox.org/don-quijote-1.m3u
+https://www.librivox.org/download/don-quijote.mp3
 #EXTINF:-1 group-title="Podcasts y Audiolibros", Podcast Radio Educacion
 https://radioeducacion.edu.mx/podcast/historias.mp3
-#EXTINF:-1 group-title="Webcams y Ambiente", Volcan Popocatepetl En Vivo
-https://webcam.cenapred.unam.mx/live/m3u8
+
+#EXTINF:-1 group-title="Webcams y Ambiente", ISS - Estacion Espacial NASA
+https://nasa.akamaihd.net/hls/live/1/nasa/master.m3u8
+#EXTINF:-1 group-title="Webcams y Ambiente", Volcan Popocatepetl
+https://webcam.cenapred.unam.mx/live/live.m3u8
 #EXTINF:-1 group-title="Webcams y Ambiente", Lluvia y Bosque 24/7
 https://icecast.radio/file.mp3
-
-
