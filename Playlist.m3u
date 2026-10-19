@@ -23,3 +23,26 @@ https://stream.freemusicarchive.org:8000/fma
 https://stream.radioparadise.com/mp3-128
 #EXTINF:-1 group-title="Sin Derechos - Clasica", Musopen Clasica
 https://musopen.org:8000/stream
+#EXTINF:-1 group-title="Gratis - Audiolibros", Don Quijote - Audiolibro
+https://librivox.org/don-quijote-1.m3u
+#EXTINF:-1 group-title="Gratis - Podcasts Publicos", Podcast Radio Educacion
+https://radioeducacion.edu.mx/podcast/historias.mp3
+#EXTINF:-1 tvg-id="NASA" group-title="Gratis - Internacional", NASA TV Publica
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="Gratis - Internacional", Euronews Español
+https://euronews-euronews-spanish-1.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Gratis - Webcams", Volcan Popocatepetl En Vivo
+https://webcam.cenapred.unam.mx/live.m3u8
+#EXTINF:-1 group-title="Gratis - Ambiente", Lluvia y Bosque 24/7
+https://icecast.radio/file.mp3
+
+
+
+
+
+
+
+
+
+
+
